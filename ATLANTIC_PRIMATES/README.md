@@ -8,4 +8,8 @@ Here, we compiled a dataset of 4678 georeferenced locations of 26 native and 1 i
 
 All data will be available in ECOLOGY repository. This mirror GITHUB repository will maintain updated versions of dataset.  
 
+<p align="center"> 
+<img src="Figure_1 - Copia_menor.png">
+</p>
+
 
