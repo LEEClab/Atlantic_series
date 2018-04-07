@@ -3,7 +3,7 @@
 Mirrored from <https://github.com/mauriciovancine/ATLANTIC-Amphibians>
 
 ATLANTIC-AMPHIBIANS dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of  Atlantic Forest biome. This paper follows previous published data papers in ECOLOGY journal:
-​	[ATLANTOC FRUGIVORY](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1818/abstract): Bello et al. (2017), 
+​	[ATLANTIC FRUGIVORY](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1818/abstract): Bello et al. (2017), 
 ​	[ATLANTIC SMALL-MAMMAL](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1893/full): Bovendorp et al. (2017), 
 ​	[ATLANTIC CAMPTRAPS](http://onlinelibrary.wiley.com/doi/10.1002/ecy.1998/abstract): Lima et al. (2017), 
 ​	[ATLANTIC BATS](http://onlinelibrary.wiley.com/doi/10.1002/ecy.2007/abstract): Muylaert et al. (2017),
