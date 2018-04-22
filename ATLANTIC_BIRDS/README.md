@@ -2,7 +2,7 @@
 
 ***Here we share the updated version Atlantic Birds Data Paper dataset. Please check the original version of the Data Paper on Ecology here:***
 
-[Hasui, E. , J. P. Metzger., R. G. Pimentel., L. F. Silveira., A. A. A. Bovo, A. C. Martensen, A. Uezu, 
+<img align="right" width="250"  src="ats_v02_birds1.jpg"> [Hasui, E. , J. P. Metzger., R. G. Pimentel., L. F. Silveira., A. A. A. Bovo, A. C. Martensen, A. Uezu, 
 A. L. Regolin, A. A. B. Oliveira, C. A. F. R. Gatto, C. Duca, C. B. Andretti, C. Banks-Leite, D. Luz, 
 D. Mariz, E. R. Alexandrino, F. M. Barros, F. Martello, I. M. S. Pereira, J. N. Silva, K. M. P. M. B. Ferraz, 
 L. N. Naka, L. Anjos, M. A. Efe, M. A. Pizo, M. Pichorim, M. S. S. Gonçalves, P. H. C. Cordeiro, R. A. Dias, 
