@@ -18,6 +18,6 @@ Instituto de Biociências, Departamento de Ecologia
 
 13506-900 Rio Claro, São Paulo, Brazil
 
-<img width="250" src="ats_v02.jpg"> <img width="250" src="ams_v02.jpg"> <img width="250" src="nts_v02.jpg">
+
 
 
