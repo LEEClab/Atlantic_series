@@ -6,6 +6,8 @@
 
 Cameratrap data is one of the most common method for acquire medium and large-sized mammal´s data. ATLANTIC CAMTRAP encompass data on 170 quantitative surveys conducted on 144 area. A total of 53,438 unique records about 83 species are available for the entire Atlantic Forest. These species refers to marsupuals (n=10 species), rodents (15), carnivores (20), ungulates (8) and armadillos (6). 
 
+For those that want access the original ATLANTIC CAMTRAP dataset, please, access ECOLOGY repository (link above). The updated version of datapaper can be found in this GITHUB repository.
+
 <p align="center"> 
 <img src="FIG01_major.png">
 </p>
