@@ -9,7 +9,7 @@ Bats are the second most diverse mammal order and they provide vital ecosystem f
 **The original dataset is fully available at ECOLOGY repository**. 
 *Updated version of ATLANTIC BATS can be accessed in this ATLANTIC SERIES Github repository.*
 
-CONTACT PERSON: Renata Muylaert <renatamuy@gmail.com>, Mauro Galetti <galetti@mac.com> and Milton Cezar Ribeiro <miltinho.astronauta@yahoo.com>
+CONTACT PERSON: Renata Muylaert <renatamuy@gmail.com>, Mauro Galetti <galetti@mac.com> and Milton Cezar Ribeiro <miltinho.astronauta@gmail.com>
 
 <p align="center"> 
 <img src="FIG01_major.png">
