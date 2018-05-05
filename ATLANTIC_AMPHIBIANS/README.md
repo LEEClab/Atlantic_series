@@ -11,6 +11,11 @@ Vancine, M. H., K. S. Duarte, Y. S. Souza, J. G. R. Giovanelli, P. M. M. Sobrinh
 
 In the ATLANTIC AMPHIBIANS we compiled information on amphibian communities of Atlantic Forest Biome. A total of 389 bibliographic references from 1940 to 2017 were used as source of data. The database includes 17,619 records, which represents 528 species recorded at 1,163 georeferenced sites. About 82% were classified thru endemism criterion. Active surveys was the most frequent method (82.1%). Species richness were 15.2 ± 11.3 SD, with low dominance in the communities, and only 10 species occurred about 26% of communities.
 
+**The original dataset is fully available at ECOLOGY repository**. 
+*Updated version of ATLANTIC BATS can be accessed in this ATLANTIC SERIES Github repository.*
+
+CONTACT PERSON: Maurício Vancine <mauricio.vancine@gmail.com> and Milton Cezar Ribeiro <miltinho.astronauta@gmail.com>
+
 <p align="center"> 
 <img src="https://github.com/mauriciovancine/ATLANTIC-Amphibians/blob/master/atlantic_amphibians_map.png" height="600" width="450">
 </p>
