@@ -14,6 +14,6 @@ Vancine, M. H., K. S. Duarte, Y. S. Souza, J. G. R. Giovanelli, P. M. M. Sobrinh
 <img src="https://github.com/mauriciovancine/ATLANTIC-Amphibians/blob/master/atlantic_amphibians_map.png" height="600" width="450">
 </p>
 
-**Figure 1.** Distribution of the study sites in the ATLANTIC AMPHIBIANS dataset. The limit of Atlantic Forest Biome is according Muylaert et al. (in review). 
+**FIGURE 1.** Distribution of the study sites in the ATLANTIC AMPHIBIANS dataset. The limit of Atlantic Forest Biome is according Muylaert et al. (in review). 
 
 Mirrored from <https://github.com/mauriciovancine/ATLANTIC-Amphibians>
