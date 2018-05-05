@@ -11,7 +11,7 @@ M. Galetti, and M. C. Ribeiro. 2017. **ATLANTIC BIRDS: a dataset of bird species
 
 **ECOLOGY JOURNAL: doi:10.1002/ecy.2119 - http://onlinelibrary.wiley.com/doi/10.1002/ecy.2119/full**
 
-ATLANTIC-BIRDS dataset is part of the ATLANTIC series, on which research teams are compiling biodiversity information of Atlantic forest biome. 
+ATLANTIC-BIRDS dataset is part of the **ATLANTIC SERIES**, on which research teams are compiling biodiversity information of Atlantic forest biome. 
 
 This dataset is composed of 183,814 avian records (150,423 of occurrence data and 33,391 that include abundances)  of 832 species in the Atlantic Forest of Brazil. It is compiled using four main sources of data 
 (museum collections, on-line databases, published sources, and unpublished reports), that were recorded during the last two centuries (from 1815 to 2017). The dataset included data that are spread around the world (but mainly in Brazilian museums) or are published in Portuguese or remain as gray literature with restricted access. 
@@ -20,7 +20,7 @@ The dataset is accompanied by a descriptive analysis of the main patterns of avi
 For some localities, it is possible to investigate temporal dynamics of bird species distribution from 1815 to 2017 (historical vs. current records). In addition, it is interesting to foster conservation strategies in this biodiversity hotspot.
 
 **The original dataset is fully available at ECOLOGY repository**. 
-*Updated version of ATLANTIC BIRDS can be accessed in this ATLANTIC SERIES Github repository.*
+*Updated version of **ATLANTIC BIRDS** can be accessed in this **ATLANTIC SERIES** Github repository.*
 
 CONTACT PERSON: Erica Hasui <ericahasui@gmail.com> and Milton Cezar Ribeiro <miltinho.astronauta@gmail.com>
 
