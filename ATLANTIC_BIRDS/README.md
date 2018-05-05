@@ -1,13 +1,13 @@
-# ATLANTIC-BIRDS
+# ATLANTIC BIRDS
 
-***Here we share the updated version Atlantic Birds Data Paper dataset. Please check the original version of the Data Paper on Ecology here:***
+***Here we share the updated version ATLANTIC BIRDS Data Paper dataset. Please check the original version of the Data Paper on ECOLOGY journal:***
 
 <img align="right" width="250"  src="ats_v02_birds1.jpg"> [Hasui, E. , J. P. Metzger., R. G. Pimentel., L. F. Silveira., A. A. A. Bovo, A. C. Martensen, A. Uezu, 
 A. L. Regolin, A. A. B. Oliveira, C. A. F. R. Gatto, C. Duca, C. B. Andretti, C. Banks-Leite, D. Luz, 
 D. Mariz, E. R. Alexandrino, F. M. Barros, F. Martello, I. M. S. Pereira, J. N. Silva, K. M. P. M. B. Ferraz, 
 L. N. Naka, L. Anjos, M. A. Efe, M. A. Pizo, M. Pichorim, M. S. S. Gonçalves, P. H. C. Cordeiro, R. A. Dias, 
 R. L. Muylaert, R. C. Rodrigues, T. V. V. Costa, V. Cavarzere, V. R. Tonetti, W. R. Silva, C. N. Jenkins, 
-M. Galetti, and M. C. Ribeiro. 2017. ATLANTIC BIRDS: a dataset of bird species from the Brazilian Atlantic Forest. 
+M. Galetti, and M. C. Ribeiro. 2017. **ATLANTIC BIRDS: a dataset of bird species from the Brazilian Atlantic Forest.** 
 
 **ECOLOGY JOURNAL: doi:10.1002/ecy.2119 - http://onlinelibrary.wiley.com/doi/10.1002/ecy.2119/full**
 
@@ -18,6 +18,13 @@ This dataset is composed of 183,814 avian records (150,423 of occurrence data an
 
 The dataset is accompanied by a descriptive analysis of the main patterns of avian records (with qualitative and  quantitative datasets) and information of the gap in knowledge about spatial and temporal distribution of birds in the  Atlantic Forest. We also highlight some species that need special conservation attention due to the low frequency of  records in recent years. All this information can be used for macroecological studies to explore population and  community’ structure, and calculate different composition metrics, such as species diversity, richness, and species relative abundance (captures/100 net hours, abundance per number of samples (IPA), or sight/hours) for 576 communities. 
 For some localities, it is possible to investigate temporal dynamics of bird species distribution from 1815 to 2017 (historical vs. current records). In addition, it is interesting to foster conservation strategies in this biodiversity hotspot.
+
+**The original dataset is fully available at ECOLOGY repository**. 
+*Updated version of ATLANTIC BIRDS can be accessed in this ATLANTIC SERIES Github repository.*
+
+CONTACT PERSON: Erica Hasui <ericahasui@gmail.com> and Milton Cezar Ribeiro <miltinho.astronauta@gmail.com>
+
+
 
 <p align="center"> 
 <img src="https://github.com/LEEClab/ATLANTIC-Birds/blob/master/figure.jpg">
