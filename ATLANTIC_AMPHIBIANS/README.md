@@ -4,7 +4,7 @@ Mirrored from <https://github.com/mauriciovancine/ATLANTIC-Amphibians>
 
 <img align="right" width="250" src="ats_v02_amphibians1.jpg">ATLANTIC-AMPHIBIANS dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of  Atlantic Forest biome. 
 
-Vancine, M. H., K. S. Duarte, Y. S. Souza, J. G. R. Giovanelli, P. M. M. Sobrinho, A. López, R. P. Bovo, F. Maffei, M. B. Lion, J. W. Ribeiro-Júnior, R. Brassaloti, C. Ortiz, H. O. Sawakuchi, J. Bertoluci, L. R. Forti, P. Cacciali, C. F. B. Haddad, and M. C. Ribeiro. *ATLANTIC AMPHIBIANS. A Dataset of Amphibian Communities from the Atlantic Forests of South America.* 
+Vancine, M. H., K. S. Duarte, Y. S. Souza, J. G. R. Giovanelli, P. M. M. Sobrinho, A. López, R. P. Bovo, F. Maffei, M. B. Lion, J. W. Ribeiro-Júnior, R. Brassaloti, C. Ortiz, H. O. Sawakuchi, J. Bertoluci, L. R. Forti, P. Cacciali, C. F. B. Haddad, and M. C. Ribeiro. *ATLANTIC AMPHIBIANS. A Dataset of Amphibian Communities from the Atlantic Forests of South America.* Ecology (in press).
 
 
 ### The datapaper was ACCEPTED in ECOLOGY journal, and will be out in May/2018
