@@ -1,6 +1,6 @@
 # ATLANTIC SERIES: Data on the richest neotropical hotspot
 --------------------------------------------------------
-### **MEDIA COVERAGE about ATLANTIC SERIES **
+### **MEDIA COVERAGE about ATLANTIC SERIES**
 <img align="right" width="250" src="ats_v02.jpg">
 
 
