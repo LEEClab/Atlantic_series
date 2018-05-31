@@ -1,0 +1,833 @@
+id_cod,Order,Family,Species,English _Name,IUCN_Status,Endemic _Atlantic_Forest
+1,Tinamiformes,Tinamidae,Tinamus solitarius,Solitary Tinamou,NT,X
+2,Tinamiformes,Tinamidae,Crypturellus soui,Little Tinamou,LC,
+3,Tinamiformes,Tinamidae,Crypturellus obsoletus,Brown Tinamou,LC,
+4,Tinamiformes,Tinamidae,Crypturellus undulatus,Undulated Tinamou,LC,
+5,Tinamiformes,Tinamidae,Crypturellus noctivagus,Yellow-legged Tinamou,NT,X
+6,Tinamiformes,Tinamidae,Crypturellus variegatus,Variegated Tinamou,LC,
+7,Tinamiformes,Tinamidae,Crypturellus tataupa,Tataupa Tinamou,LC,
+8,Tinamiformes,Tinamidae,Rhynchotus rufescens,Red-winged Tinamou,LC,
+9,Tinamiformes,Tinamidae,Nothura boraquira,White-bellied Nothura,LC,
+10,Tinamiformes,Tinamidae,Nothura maculosa,Spotted Nothura,LC,
+11,Anseriformes,Anhimidae,Anhima cornuta,Horned Screamer,LC,
+12,Anseriformes,Anhimidae,Chauna torquata,Southern Screamer,LC,
+13,Anseriformes,Anatidae,Dendrocygna bicolor,Fulvous Whistling-Duck,LC,
+14,Anseriformes,Anatidae,Dendrocygna viduata,White-faced Whistling-Duck,LC,
+15,Anseriformes,Anatidae,Dendrocygna autumnalis,Black-bellied Whistling-Duck,LC,
+16,Anseriformes,Anatidae,Cygnus melancoryphus,Black-necked Swan,LC,
+17,Anseriformes,Anatidae,Cairina moschata,Muscovy Duck,LC,
+18,Anseriformes,Anatidae,Sarkidiornis sylvicola,Comb Duck,LC,
+19,Anseriformes,Anatidae,Amazonetta brasiliensis,Brazilian Teal,LC,
+20,Anseriformes,Anatidae,Anas flavirostris,Yellow-billed Teal,LC,
+21,Anseriformes,Anatidae,Anas georgica,Yellow-billed Pintail,LC,
+22,Anseriformes,Anatidae,Anas bahamensis,White-cheeked Pintail,LC,
+23,Anseriformes,Anatidae,Netta erythrophthalma,Southern Pochard,LC,
+24,Anseriformes,Anatidae,Netta peposaca,Rosy-billed Pochard,LC,
+25,Anseriformes,Anatidae,Nomonyx dominicus,Masked Duck,LC,
+26,Galliformes,Cracidae,Penelope superciliaris,Rusty-margined Guan,LC,
+27,Galliformes,Cracidae,Penelope obscura,Dusky-legged Guan,LC,X
+28,Galliformes,Cracidae,Aburria jacutinga,Black-fronted Piping-Guan,LC,X
+29,Galliformes,Cracidae,Ortalis guttata,Speckled Chachalaca,LC,X
+30,Galliformes,Cracidae,Ortalis squamata,Scaled Chachalaca,LC,X
+31,Galliformes,Cracidae,Crax blumenbachii,Red-billed Curassow,EN,X
+32,Galliformes,Odontophoridae,Odontophorus capueira,Spot-winged Wood-Quail,LC,X
+33,Podicipediformes,Podicipedidae,Rollandia rolland,White-tufted Grebe,LC,
+34,Podicipediformes,Podicipedidae,Tachybaptus dominicus,Least Grebe,LC,
+35,Podicipediformes,Podicipedidae,Podilymbus podiceps,Pied-billed Grebe,LC,
+36,Podicipediformes,Podicipedidae,Podicephorus major,Great Grebe,LC, 
+37,Sphenisciformes,Spheniscidae,Spheniscus magellanicus,Magellanic Penguin,NT,
+38,Procellariiformes,Diomedeidae,Thalassarche chlororhynchos,Yellow-nosed Albatross,EN,
+39,Procellariiformes,Diomedeidae,Thalassarche melanophris,Black-browed Albatross,NT,
+40,Procellariiformes,Diomedeidae,Thalassarche chrysostoma,Gray-headed Albatross,EN,
+41,Procellariiformes,Diomedeidae,Diomedea epomophora,Royal Albatross,VU,
+42,Procellariiformes,Diomedeidae,Diomedea exulans,Wandering Albatross,VU,
+43,Procellariiformes,Procellariidae,Macronectes giganteus,Southern Giant-Petrel,LC,
+44,Procellariiformes,Procellariidae,Fulmarus glacialoides,Southern Fulmar,LC,
+45,Procellariiformes,Procellariidae,Daption capense,Cape Petrel,LC,
+46,Procellariiformes,Procellariidae,Pterodroma incerta,Atlantic Petrel,EN,
+47,Procellariiformes,Procellariidae,Pterodroma lessonii,White-headed Petrel,LC,
+48,Procellariiformes,Procellariidae,Pachyptila vittata,Broad-billed Prion,LC,
+49,Procellariiformes,Procellariidae,Pachyptila desolata,Antarctic Prion,LC,
+50,Procellariiformes,Procellariidae,Pachyptila belcheri,Slender-billed Prion,LC,
+51,Procellariiformes,Procellariidae,Procellaria aequinoctialis,White-chinned Petrel,VU,
+52,Procellariiformes,Procellariidae,Calonectris borealis,Cory's Shearwater,LC,
+53,Procellariiformes,Procellariidae,Puffinus griseus,Sooty Shearwater,LC,
+54,Procellariiformes,Procellariidae,Puffinus gravis,Great Shearwater,LC,
+55,Procellariiformes,Procellariidae,Puffinus puffinus,Manx Shearwater,LC,
+56,Procellariiformes,Hydrobatidae,Oceanites oceanicus,Wilson's Storm-Petrel,LC,
+57,Procellariiformes,Phaethontidae,Phaethon aethereus,Red-billed Tropicbird,LC,
+58,Ciconiiformes,Ciconiidae,Ciconia maguari,Maguari Stork,LC,
+59,Ciconiiformes,Ciconiidae,Jabiru mycteria,Jabiru,LC,
+60,Ciconiiformes,Ciconiidae,Mycteria americana,Wood Stork,LC,
+61,Ciconiiformes,Fregatidae,Fregata magnificens,Magnificent Frigatebird,LC,
+62,Ciconiiformes,Sulidae,Sula leucogaster,Brown Booby,LC,
+63,Ciconiiformes,Phalacrocoracidae,Nannopterum brasilianus,Neotropic Cormorant,LC,
+64,Ciconiiformes,Anhingidae,Anhinga anhinga,Anhinga,LC,
+65,Pelecaniforme,Ardeidae,Tigrisoma lineatum,Rufescent Tiger-Heron,LC,
+66,Pelecaniforme,Ardeidae,Tigrisoma fasciatum,Fasciated Tiger-Heron,LC,
+67,Pelecaniforme,Ardeidae,Cochlearius cochlearius,Boat-billed Heron,LC,
+68,Pelecaniforme,Ardeidae,Ixobrychus exilis,Least Bittern,LC,
+69,Pelecaniforme,Ardeidae,Ixobrychus involucris,Stripe-backed Bittern,LC,
+70,Pelecaniforme,Ardeidae,Nycticorax nycticorax,Black-crowned Night-Heron,LC,
+71,Pelecaniforme,Ardeidae,Nyctanassa violacea,Yellow-crowned Night-Heron,LC,
+72,Pelecaniforme,Ardeidae,Butorides striata,Striated Heron,LC,
+73,Pelecaniforme,Ardeidae,Bubulcus ibis,Cattle Egret,LC,
+74,Pelecaniforme,Ardeidae,Ardea cocoi,Cocoi Heron,LC,
+75,Pelecaniforme,Ardeidae,Ardea alba,Great Egret,LC,
+76,Pelecaniforme,Ardeidae,Syrigma sibilatrix,Whistling Heron,LC,
+77,Pelecaniforme,Ardeidae,Pilherodius pileatus,Capped Heron,LC,
+78,Pelecaniforme,Ardeidae,Egretta thula,Snowy Egret,LC,
+79,Pelecaniforme,Ardeidae,Egretta caerulea,Little Blue Heron,LC,
+80,Pelecaniforme,Threskiornithidae,Eudocimus ruber,Scarlet Ibis,LC,
+81,Pelecaniforme,Threskiornithidae,Plegadis chihi,White-faced Ibis,LC,
+82,Pelecaniforme,Threskiornithidae,Mesembrinibis cayennensis,Green Ibis,LC,
+83,Pelecaniforme,Threskiornithidae,Phimosus infuscatus,Bare-faced Ibis,LC,
+84,Pelecaniforme,Threskiornithidae,Theristicus caudatus,Buff-necked Ibis,LC,
+85,Pelecaniforme,Threskiornithidae,Platalea ajaja,Roseate Spoonbill,LC,
+86,Cathartiformes,Cathartidae ,Cathartes aura,Turkey Vulture,LC,
+87,Cathartiformes,Cathartidae ,Cathartes burrovianus,Lesser Yellow-headed Vulture,LC,
+88,Cathartiformes,Cathartidae ,Coragyps atratus,Black Vulture,LC,
+89,Cathartiformes,Cathartidae ,Sarcoramphus papa,King Vulture,LC,
+90,Accipitriformes,Pandionidae,Pandion haliaetus,Osprey,LC,
+91,Accipitriformes,Accipitridae,Leptodon cayanensis,Gray-headed Kite,LC,
+92,Accipitriformes,Accipitridae,Chondrohierax uncinatus,Hook-billed Kite,LC,
+93,Accipitriformes,Accipitridae,Elanoides forficatus,Swallow-tailed Kite,LC,
+94,Accipitriformes,Accipitridae,Gampsonyx swainsonii,Pearl Kite,LC,
+95,Accipitriformes,Accipitridae,Elanus leucurus,White-tailed Kite,LC,
+96,Accipitriformes,Accipitridae,Harpagus bidentatus,Double-toothed Kite,LC,
+97,Accipitriformes,Accipitridae,Harpagus diodon,Rufous-thighed Kite,LC,
+98,Accipitriformes,Accipitridae,Circus buffoni,Long-winged Harrier,LC,
+99,Accipitriformes,Accipitridae,Accipiter poliogaster,Gray-bellied Hawk,NT,
+100,Accipitriformes,Accipitridae,Accipiter superciliosus,Tiny Hawk,LC,
+101,Accipitriformes,Accipitridae,Accipiter striatus,Sharp-shinned Hawk,LC,
+102,Accipitriformes,Accipitridae,Accipiter bicolor,Bicolored Hawk,LC,
+103,Accipitriformes,Accipitridae,Ictinia plumbea,Plumbeous Kite,LC,
+104,Accipitriformes,Accipitridae,Rostrhamus sociabilis,Snail Kite,LC,
+105,Accipitriformes,Accipitridae,Geranospiza caerulescens,Crane Hawk,LC,
+106,Accipitriformes,Accipitridae,Heterospizias meridionalis,Savanna Hawk,LC,
+107,Accipitriformes,Accipitridae,Amadonastur lacernulatus,White-necked Hawk,LC,X
+108,Accipitriformes,Accipitridae,Urubitinga urubitinga,Great Black Hawk,LC,
+109,Accipitriformes,Accipitridae,Urubitinga coronata,Crowned Eagle,LC,
+110,Accipitriformes,Accipitridae,Rupornis magnirostris,Roadside Hawk,LC,
+111,Accipitriformes,Accipitridae,Parabuteo unicinctus,Harris's Hawk,LC,
+112,Accipitriformes,Accipitridae,Geranoaetus albicaudatus,White-tailed Hawk,LC,
+113,Accipitriformes,Accipitridae,Pseudastur polionotus,Mantled Hawk,NT,X
+114,Accipitriformes,Accipitridae,Harpia harpyja,Harpy Eagle,NT,
+115,Accipitriformes,Accipitridae,Spizaetus tyrannus,Black Hawk-Eagle,LC,
+116,Accipitriformes,Accipitridae,Spizaetus melanoleucus,Black-and-white Hawk-Eagle,LC,
+117,Accipitriformes,Accipitridae,Spizaetus ornatus,Ornate Hawk-Eagle,NT,
+118,Gruiformes,Aramidae,Aramus guarauna,Limpkin,LC,
+119,Gruiformes,Rallidae ,Micropygia schomburgkii,Ocellated Crake,LC,
+120,Gruiformes,Rallidae ,Rallus longirostris,Mangrove Rail,LC,
+121,Gruiformes,Rallidae ,Aramides ypecaha,Giant Wood-Rail,LC,
+122,Gruiformes,Rallidae ,Aramides mangle,Little Wood-Rail,LC,
+123,Gruiformes,Rallidae ,Aramides cajaneus,Gray-necked Wood-Rail,LC,
+124,Gruiformes,Rallidae ,Aramides saracura,Slaty-breasted Wood-Rail,LC,X
+125,Gruiformes,Rallidae ,Laterallus viridis,Russet-crowned Crake,LC,
+126,Gruiformes,Rallidae ,Laterallus melanophaius,Rufous-sided Crake,LC,
+127,Gruiformes,Rallidae ,Laterallus exilis,Gray-breasted Crake,LC,
+128,Gruiformes,Rallidae ,Laterallus leucopyrrhus,Red-and-white Crake,LC,
+129,Gruiformes,Rallidae ,Porzana flaviventer,Yellow-breasted Crake,LC,
+130,Gruiformes,Rallidae ,Mustelirallus albicollis,Ash-throated Crake,LC,
+131,Gruiformes,Rallidae ,Neocrex erythrops,Paint-billed Crake,LC,
+132,Gruiformes,Rallidae ,Pardirallus maculatus,Spotted Rail,LC,
+133,Gruiformes,Rallidae ,Pardirallus nigricans,Blackish Rail,LC,
+134,Gruiformes,Rallidae ,Pardirallus sanguinolentus,Plumbeous Rail,LC, 
+135,Gruiformes,Rallidae ,Gallinula galeata,Common Gallinule,LC,
+136,Gruiformes,Rallidae ,Porphyriops melanops,Spot-flanked Gallinule,LC,
+137,Gruiformes,Rallidae ,Porphyrio martinicus,Purple Gallinule,LC, 
+138,Gruiformes,Rallidae ,Porphyrio flavirostris,Azure Gallinule,LC,
+139,Gruiformes,Rallidae ,Fulica armillata,Red-gartered Coot,LC,
+140,Gruiformes,Rallidae ,Fulica leucoptera,White-winged Coot,LC,
+141,Gruiformes,Rallidae ,Heliornis fulica,Sungrebe,LC,
+142,Charadriiformes,Charadriidae ,Vanellus cayanus,Pied Lapwing,LC,
+143,Charadriiformes,Charadriidae ,Vanellus chilensis,Southern Lapwing,LC,
+144,Charadriiformes,Charadriidae ,Pluvialis dominica,American Golden-Plover,LC,
+145,Charadriiformes,Charadriidae ,Pluvialis squatarola,Black-bellied Plover,LC,
+146,Charadriiformes,Charadriidae ,Charadrius semipalmatus,Semipalmated Plover,LC,
+147,Charadriiformes,Charadriidae ,Charadrius collaris,Collared Plover,LC,
+148,Charadriiformes,Charadriidae ,Charadrius falklandicus,Two-banded Plover,LC,
+149,Charadriiformes,Charadriidae ,Charadrius modestus,Rufous-chested Dotterel,LC,
+150,Charadriiformes,Haematopodidae,Haematopus palliatus,American Oystercatcher,LC,
+151,Charadriiformes,Recurvirostridae,Himantopus mexicanus,Black-necked Stilt,LC,
+152,Charadriiformes,Recurvirostridae,Himantopus melanurus,White-backed Stilt,LC,
+153,Charadriiformes,Chionidae,Chionis albus,Snowy Sheathbill,LC,
+154,Charadriiformes,Scolopacidae,Gallinago paraguaiae,South American Snipe,LC,
+155,Charadriiformes,Scolopacidae,Gallinago undulata,Giant Snipe,LC,
+156,Charadriiformes,Scolopacidae,Limnodromus griseus,Short-billed Dowitcher,LC,
+157,Charadriiformes,Scolopacidae,Limosa haemastica,Hudsonian Godwit,LC,
+158,Charadriiformes,Scolopacidae,Numenius borealis,Eskimo Curlew,CR,
+159,Charadriiformes,Scolopacidae,Numenius hudsonicus,American Whimbrel,LC,
+160,Charadriiformes,Scolopacidae,Bartramia longicauda,Upland Sandpiper,LC,
+161,Charadriiformes,Scolopacidae,Actitis macularius,Spotted Sandpiper,LC,
+162,Charadriiformes,Scolopacidae,Tringa solitaria,Solitary Sandpiper,LC,
+163,Charadriiformes,Scolopacidae,Tringa melanoleuca,Greater Yellowlegs,LC,
+164,Charadriiformes,Scolopacidae,Tringa flavipes,Lesser Yellowlegs,LC,
+165,Charadriiformes,Scolopacidae,Calidris canutus,Red Knot,NT,
+166,Charadriiformes,Scolopacidae,Calidris alba,Sanderling,LC,
+167,Charadriiformes,Scolopacidae,Calidris pusilla,Semipalmated Sandpiper,NT,
+168,Charadriiformes,Scolopacidae,Calidris minutilla,Least Sandpiper,LC,
+169,Charadriiformes,Scolopacidae,Calidris fuscicollis,White-rumped Sandpiper,LC,
+170,Charadriiformes,Scolopacidae,Calidris bairdii,Baird's Sandpiper,LC,
+171,Charadriiformes,Scolopacidae,Calidris melanotos,Pectoral Sandpiper,LC,
+172,Charadriiformes,Scolopacidae,Calidris himantopus,Stilt Sandpiper,LC,
+173,Charadriiformes,Scolopacidae,Phalaropus tricolor,Wilson's Phalarope,LC,
+174,Charadriiformes,Jacanidae,Jacana jacana,Wattled Jacana,LC,
+175,Charadriiformes,Rostratulidae,Nycticryphes semicollaris,South American Painted-Snipe,LC,
+176,Charadriiformes,Stercorariidae,Stercorarius skua,Great Skua,LC,
+177,Charadriiformes,Stercorariidae,Stercorarius maccormicki,South Polar Skua,LC,
+178,Charadriiformes,Stercorariidae,Stercorarius pomarinus,Pomarine Jaeger,LC,
+179,Charadriiformes,Stercorariidae,Stercorarius parasiticus,Parasitic Jaeger,LC,
+180,Charadriiformes,Stercorariidae,Stercorarius longicaudus,Long-tailed Jaeger,LC,
+181,Charadriiformes,Laridae,Chroicocephalus maculipennis,Brown-hooded Gull,LC,
+182,Charadriiformes,Laridae,Chroicocephalus cirrocephalus,Gray-hooded Gull,LC,
+183,Charadriiformes,Laridae,Leucophaeus atricilla,Laughing Gull,LC,
+184,Charadriiformes,Laridae,Larus dominicanus,Kelp Gull,LC,
+185,Charadriiformes,Sternidae,Anous stolidus,Brown Noddy,LC,
+186,Charadriiformes,Sternidae,Sternula superciliaris,Yellow-billed Tern,LC,
+187,Charadriiformes,Sternidae,Phaetusa simplex,Large-billed Tern,LC,
+188,Charadriiformes,Sternidae,Gelochelidon nilotica,Gull-billed Tern,LC,
+189,Charadriiformes,Sternidae,Chlidonias niger,Black Tern,LC,
+190,Charadriiformes,Sternidae,Sterna hirundo,Common Tern,LC,
+191,Charadriiformes,Sternidae,Sterna hirundinacea,South American Tern,LC,
+192,Charadriiformes,Sternidae,Sterna trudeaui,Snowy-crowned Tern,LC,
+193,Charadriiformes,Sternidae,Thalasseus acuflavidus,Cabot's Tern,LC,
+194,Charadriiformes,Sternidae,Thalasseus maximus,Royal Tern,LC,
+195,Charadriiformes,Rynchopidae,Rynchops niger,Black Skimmer,LC,
+196,Columbiformes,Columbidae,Columbina passerina,Common Ground-Dove,LC,
+197,Columbiformes,Columbidae,Columbina minuta,Plain-breasted Ground-Dove,LC,
+198,Columbiformes,Columbidae,Columbina talpacoti,Ruddy Ground-Dove,LC,
+199,Columbiformes,Columbidae,Columbina squammata,Scaled Dove,LC,
+200,Columbiformes,Columbidae,Columbina picui,Picui Ground-Dove,LC,
+201,Columbiformes,Columbidae,Claravis pretiosa,Blue Ground-Dove,LC,
+202,Columbiformes,Columbidae,Claravis geoffroyi,Purple-winged Ground-Dove,CR,X
+203,Columbiformes,Columbidae,Columba livia,Rock Pigeon,LC,
+204,Columbiformes,Columbidae,Patagioenas speciosa,Scaled Pigeon,LC,
+205,Columbiformes,Columbidae,Patagioenas picazuro,Picazuro Pigeon,LC,
+206,Columbiformes,Columbidae,Patagioenas cayennensis,Pale-vented Pigeon,LC,
+207,Columbiformes,Columbidae,Patagioenas plumbea,Plumbeous Pigeon,LC,
+208,Columbiformes,Columbidae,Zenaida auriculata,Eared Dove,LC,
+209,Columbiformes,Columbidae,Leptotila verreauxi,White-tipped Dove,LC,
+210,Columbiformes,Columbidae,Leptotila rufaxilla,Gray-fronted Dove,LC,
+211,Columbiformes,Columbidae,Geotrygon violacea,Violaceous Quail-Dove,LC,
+212,Columbiformes,Columbidae,Geotrygon montana,Ruddy Quail-Dove,LC,
+213,Cuculiformes,Cuculidae,Micrococcyx cinereus,Ash-colored Cuckoo,LC,
+214,Cuculiformes,Cuculidae,Piaya cayana,Squirrel Cuckoo,LC,
+215,Cuculiformes,Cuculidae,Coccyzus melacoryphus,Dark-billed Cuckoo,LC,
+216,Cuculiformes,Cuculidae,Coccyzus americanus,Yellow-billed Cuckoo,LC,
+217,Cuculiformes,Cuculidae,Coccyzus euleri,Pearly-breasted Cuckoo,LC,
+218,Cuculiformes,Cuculidae,Coccyzus erythropthalmus,Black-billed Cuckoo,LC,
+219,Cuculiformes,Cuculidae,Crotophaga major,Greater Ani,LC,
+220,Cuculiformes,Cuculidae,Crotophaga ani,Smooth-billed Ani,LC,
+221,Cuculiformes,Cuculidae,Guira guira,Guira Cuckoo,LC,
+222,Cuculiformes,Cuculidae,Tapera naevia,Striped Cuckoo,LC,
+223,Cuculiformes,Cuculidae,Dromococcyx pavoninus,Pavonine Cuckoo,LC,
+224,Cuculiformes,Cuculidae,Neomorphus geoffroyi,Rufous-vented Ground-Cuckoo,VU,X
+225,Strigiformes,Tytonidae,Tyto furcata,American Barn Owl,LC,
+226,Strigiformes,Strigidae,Megascops choliba,Tropical Screech-Owl,LC,
+227,Strigiformes,Strigidae,Megascops atricapilla,Black-capped Screech-Owl,LC,X
+228,Strigiformes,Strigidae,Megascops sanctaecatarinae,Long-tufted Screech-Owl,LC,X
+229,Strigiformes,Strigidae,Pulsatrix perspicillata,Spectacled Owl,LC,
+230,Strigiformes,Strigidae,Pulsatrix koeniswaldiana,Tawny-browed Owl,LC,X
+231,Strigiformes,Strigidae,Bubo virginianus,Great Horned Owl,LC,
+232,Strigiformes,Strigidae,Strix hylophila,Rusty-barred Owl,NT,X
+233,Strigiformes,Strigidae,Strix virgata,Mottled Owl,LC,
+234,Strigiformes,Strigidae,Strix huhula,Black-banded Owl,LC,
+235,Strigiformes,Strigidae,Glaucidium mooreorum,Pernambuco Pygmy-Owl,CR,X
+236,Strigiformes,Strigidae,Glaucidium minutissimum,Least Pygmy-Owl,LC,X
+237,Strigiformes,Strigidae,Glaucidium brasilianum,Ferruginous Pygmy-Owl,LC,
+238,Strigiformes,Strigidae,Athene cunicularia,Burrowing Owl,LC,
+239,Strigiformes,Strigidae,Aegolius harrisii,Buff-fronted Owl,LC,
+240,Strigiformes,Strigidae,Asio clamator,Striped Owl,LC,
+241,Strigiformes,Strigidae,Asio stygius,Stygian Owl,LC,
+242,Strigiformes,Strigidae,Asio flammeus,Short-eared Owl,LC,
+243,Nyctibiiformes,Nyctibiidae,Nyctibius grandis,Great Potoo,LC,
+244,Nyctibiiformes,Nyctibiidae,Nyctibius aethereus,Long-tailed Potoo,LC,
+245,Nyctibiiformes,Nyctibiidae,Nyctibius griseus,Common Potoo,LC,
+246,Caprimulgiformes,Caprimulgidae,Nyctiphrynus ocellatus,Ocellated Poorwill,LC,
+247,Caprimulgiformes,Caprimulgidae,Antrostomus rufus,Rufous Nightjar,LC,
+248,Caprimulgiformes,Caprimulgidae,Antrostomus sericocaudatus,Silky-tailed Nightjar,LC,
+249,Caprimulgiformes,Caprimulgidae,Lurocalis semitorquatus,Short-tailed Nighthawk,LC,
+250,Caprimulgiformes,Caprimulgidae,Nyctidromus albicollis,Common Pauraque,LC,
+251,Caprimulgiformes,Caprimulgidae,Hydropsalis parvula,Little Nightjar,LC,
+252,Caprimulgiformes,Caprimulgidae,Hydropsalis anomala,Sickle-winged Nightjar,LC,
+253,Caprimulgiformes,Caprimulgidae,Hydropsalis longirostris,Band-winged Nightjar,LC,
+254,Caprimulgiformes,Caprimulgidae,Hydropsalis maculicaudus,Spot-tailed Nightjar,LC,
+255,Caprimulgiformes,Caprimulgidae,Hydropsalis torquata,Scissor-tailed Nightjar,LC,
+256,Caprimulgiformes,Caprimulgidae,Podager nacunda,Nacunda Nighthawk,LC,
+257,Caprimulgiformes,Caprimulgidae,Chordeiles minor,Common Nighthawk,LC,
+258,Caprimulgiformes,Caprimulgidae,Chordeiles acutipennis,Lesser Nighthawk,LC,
+259,Apodiformes,Apodidae,Cypseloides fumigatus,Sooty Swift,LC,
+260,Apodiformes,Apodidae,Cypseloides senex,Great Dusky Swift,LC,
+261,Apodiformes,Apodidae,Streptoprocne zonaris,White-collared Swift,LC,
+262,Apodiformes,Apodidae,Streptoprocne biscutata,Biscutate Swift,LC,
+263,Apodiformes,Apodidae,Chaetura cinereiventris,Gray-rumped Swift,LC,
+264,Apodiformes,Apodidae,Chaetura meridionalis,Sick's Swift,LC,
+265,Apodiformes,Apodidae,Chaetura brachyura,Short-tailed Swift,LC,
+266,Apodiformes,Apodidae,Tachornis squamata,Fork-tailed Palm-Swift,LC,
+267,Apodiformes,Apodidae,Panyptila cayennensis,Lesser Swallow-tailed Swift,LC,
+268,Apodiformes,Trochilidae,Ramphodon naevius,Saw-billed Hermit,NT,X
+269,Apodiformes,Trochilidae,Glaucis dohrnii,Hook-billed Hermit,EN,X
+270,Apodiformes,Trochilidae,Glaucis hirsutus,Rufous-breasted Hermit,LC,
+271,Apodiformes,Trochilidae,Phaethornis squalidus,Dusky-throated Hermit,LC,X
+272,Apodiformes,Trochilidae,Phaethornis idaliae,Minute Hermit,LC,X
+273,Apodiformes,Trochilidae,Phaethornis ruber,Reddish Hermit,LC,
+274,Apodiformes,Trochilidae,Phaethornis pretrei,Planalto Hermit,LC,
+275,Apodiformes,Trochilidae,Phaethornis eurynome,Scale-throated Hermit,LC,X
+276,Apodiformes,Trochilidae,Phaethornis margarettae,Margaretta's Hermit,LC,X
+277,Apodiformes,Trochilidae,Campylopterus largipennis,Gray-breasted Sabrewing,LC,
+278,Apodiformes,Trochilidae,Eupetomena macroura,Swallow-tailed Hummingbird,LC,
+279,Apodiformes,Trochilidae,Florisuga fusca,Black Jacobin,LC,
+280,Apodiformes,Trochilidae,Colibri serrirostris,White-vented Violetear,LC,
+281,Apodiformes,Trochilidae,Chrysolampis mosquitus,Ruby-topaz Hummingbird,LC,
+282,Apodiformes,Trochilidae,Stephanoxis lalandi,Green-crowned Plovercrest,LC,X
+283,Apodiformes,Trochilidae,Lophornis magnificus,Frilled Coquette,LC,
+284,Apodiformes,Trochilidae,Lophornis chalybeus,Festive Coquette,NT,
+285,Apodiformes,Trochilidae,Discosura langsdorffi,Black-bellied Thorntail,LC,
+286,Apodiformes,Trochilidae,Chlorestes notata,Blue-chinned Sapphire,LC,
+287,Apodiformes,Trochilidae,Chlorostilbon lucidus,Glittering-bellied Emerald,LC,
+288,Apodiformes,Trochilidae,Thalurania watertonii,Long-tailed Woodnymph,EN,X
+289,Apodiformes,Trochilidae,Thalurania glaucopis,Violet-capped Woodnymph,LC,X
+290,Apodiformes,Trochilidae,Hylocharis sapphirina,Rufous-throated Sapphire,LC,
+291,Apodiformes,Trochilidae,Hylocharis cyanus,White-chinned Sapphire,LC,
+292,Apodiformes,Trochilidae,Hylocharis chrysura,Gilded Hummingbird,LC,
+293,Apodiformes,Trochilidae,Leucochloris albicollis,White-throated Hummingbird,LC,
+294,Apodiformes,Trochilidae,Polytmus guainumbi,White-tailed Goldenthroat,LC,
+295,Apodiformes,Trochilidae,Heliodoxa rubricauda,Brazilian Ruby,LC,X
+296,Apodiformes,Trochilidae,Heliothryx auritus,Black-eared Fairy,LC,
+297,Apodiformes,Trochilidae,Heliomaster longirostris,Long-billed Starthroat,LC,
+298,Apodiformes,Trochilidae,Heliomaster squamosus,Stripe-breasted Starthroat,LC,
+299,Apodiformes,Trochilidae,Heliomaster furcifer,Blue-tufted Starthroat,LC,
+300,Trogoniformes,Trogonidae,Trogon viridis,Green-backed Trogon,LC,
+301,Trogoniformes,Trogonidae,Trogon surrucura,Surucua Trogon,LC,
+302,Trogoniformes,Trogonidae,Trogon curucui,Blue-crowned Trogon,LC,
+303,Trogoniformes,Trogonidae,Trogon rufus,Black-throated Trogon,LC,
+304,Trogoniformes,Trogonidae,Trogon collaris,Collared Trogon,LC,
+305,Coraciiformes,Alcedinidae,Megaceryle torquata,Ringed Kingfisher,LC,
+306,Coraciiformes,Alcedinidae,Chloroceryle amazona,Amazon Kingfisher,LC,
+307,Coraciiformes,Alcedinidae,Chloroceryle aenea,American Pygmy Kingfisher,LC,
+308,Coraciiformes,Alcedinidae,Chloroceryle americana,Green Kingfisher,LC,
+309,Coraciiformes,Alcedinidae,Chloroceryle inda,Green-and-rufous Kingfisher,LC,
+310,Coraciiformes,Momotidae,Momotus momota,Amazonian Motmot,LC,
+311,Galbuliformes,Galbulidae,Galbula ruficauda,Rufous-tailed Jacamar,LC,
+312,Galbuliformes,Bucconidae,Notharchus swainsoni,Buff-bellied Puffbird,LC,X
+313,Galbuliformes,Bucconidae,Bucco tamatia,Spotted Puffbird,LC,
+314,Galbuliformes,Bucconidae,Nystalus chacuru,White-eared Puffbird,LC,
+315,Galbuliformes,Bucconidae,Nystalus maculatus,Spot-backed Puffbird,LC,
+316,Galbuliformes,Bucconidae,Malacoptila striata,Crescent-chested Puffbird,NT,X
+317,Galbuliformes,Bucconidae,Nonnula rubecula,Rusty-breasted Nunlet,LC,
+318,Galbuliformes,Bucconidae,Monasa nigrifrons,Black-fronted Nunbird,LC,
+319,Galbuliformes,Bucconidae,Monasa morphoeus,White-fronted Nunbird,LC,
+320,Galbuliformes,Bucconidae,Chelidoptera tenebrosa,Swallow-winged Puffbird,LC,
+321,Piciformes,Ramphastidae,Ramphastos toco,Toco Toucan,LC,
+322,Piciformes,Ramphastidae,Ramphastos vitellinus,Channel-billed Toucan,VU,
+323,Piciformes,Ramphastidae,Ramphastos dicolorus,Red-breasted Toucan,LC,
+324,Piciformes,Ramphastidae,Selenidera gouldii,Gould's Toucanet,LC,
+325,Piciformes,Ramphastidae,Selenidera maculirostris,Spot-billed Toucanet,LC,X
+326,Piciformes,Ramphastidae,Pteroglossus bailloni,Saffron Toucanet,NT,X
+327,Piciformes,Ramphastidae,Pteroglossus inscriptus,Lettered Aracari,LC,
+328,Piciformes,Ramphastidae,Pteroglossus aracari,Black-necked Aracari,LC,
+329,Piciformes,Picidae,Picumnus pernambucensis,Pernambuco Piculet,LC,X
+330,Piciformes,Picidae,Picumnus exilis,Bahia Piculet,LC,X
+331,Piciformes,Picidae,Picumnus pygmaeus,Spotted Piculet,LC,
+332,Piciformes,Picidae,Picumnus cirratus,White-barred Piculet,LC,
+333,Piciformes,Picidae,Picumnus temminckii,Ochre-collared Piculet,LC,X
+334,Piciformes,Picidae,Picumnus albosquamatus,White-wedged Piculet,LC,
+335,Piciformes,Picidae,Picumnus fulvescens,Tawny Piculet,NT,
+336,Piciformes,Picidae,Picumnus limae,Ochraceous Piculet,LC,
+337,Piciformes,Picidae,Picumnus nebulosus,Mottled Piculet,NT,X
+338,Piciformes,Picidae,Melanerpes candidus,White Woodpecker,LC,
+339,Piciformes,Picidae,Melanerpes flavifrons,Yellow-fronted Woodpecker,LC,X
+340,Piciformes,Picidae,Veniliornis affinis,Red-stained Woodpecker,LC,X
+341,Piciformes,Picidae,Veniliornis maculifrons,Yellow-eared Woodpecker,LC,
+342,Piciformes,Picidae,Veniliornis passerinus,Little Woodpecker,LC,
+343,Piciformes,Picidae,Veniliornis spilogaster,White-spotted Woodpecker,LC,
+344,Piciformes,Picidae,Piculus flavigula,Yellow-throated Woodpecker,LC,
+345,Piciformes,Picidae,Piculus chrysochloros,Golden-green Woodpecker,LC,
+346,Piciformes,Picidae,Piculus polyzonus,Atlantic Woodpecker,LC,X
+347,Piciformes,Picidae,Piculus aurulentus,White-browed Woodpecker,NT,X
+348,Piciformes,Picidae,Colaptes melanochloros,Green-barred Woodpecker,LC,
+349,Piciformes,Picidae,Colaptes campestris,Campo Flicker,LC,
+350,Piciformes,Picidae,Celeus torquatus,Ringed Woodpecker,NT,
+351,Piciformes,Picidae,Celeus galeatus,Helmeted Woodpecker,LC,X
+352,Piciformes,Picidae,Celeus flavescens,Blond-crested Woodpecker,LC,
+353,Piciformes,Picidae,Dryocopus lineatus,Lineated Woodpecker,LC,
+354,Piciformes,Picidae,Campephilus robustus,Robust Woodpecker,LC,X
+355,Cariamiformes,Cariamidae,Cariama cristata,Red-legged Seriema,LC,
+356,Falconiformes,Falconidae,Ibycter americanus,Red-throated Caracara,LC,
+357,Falconiformes,Falconidae,Caracara plancus,Southern Caracara,LC,
+358,Falconiformes,Falconidae,Milvago chimachima,Yellow-headed Caracara,LC,
+359,Falconiformes,Falconidae,Milvago chimango,Chimango Caracara,LC,
+360,Falconiformes,Falconidae,Herpetotheres cachinnans,Laughing Falcon,LC,
+361,Falconiformes,Falconidae,Micrastur ruficollis,Barred Forest-Falcon,LC,
+362,Falconiformes,Falconidae,Micrastur mintoni,Cryptic Forest-Falcon,LC,
+363,Falconiformes,Falconidae,Micrastur semitorquatus,Collared Forest-Falcon,LC,
+364,Falconiformes,Falconidae,Falco sparverius,American Kestrel,LC,
+365,Falconiformes,Falconidae,Falco rufigularis,Bat Falcon,LC,
+366,Falconiformes,Falconidae,Falco deiroleucus,Orange-breasted Falcon,NT,
+367,Falconiformes,Falconidae,Falco femoralis,Aplomado Falcon,LC,
+368,Falconiformes,Falconidae,Falco peregrinus,Peregrine Falcon,LC,
+369,Psittaciformes,Psittacidae,Ara ararauna,Blue-and-yellow Macaw,LC,
+370,Psittaciformes,Psittacidae,Ara chloropterus,Red-and-green Macaw,LC,
+371,Psittaciformes,Psittacidae,Primolius maracana,Blue-winged Macaw,NT,
+372,Psittaciformes,Psittacidae,Diopsittaca nobilis,Red-shouldered Macaw,LC,
+373,Psittaciformes,Psittacidae,Thectocercus acuticaudatus,Blue-crowned Parakeet,LC,
+374,Psittaciformes,Psittacidae,Psittacara leucophthalmus,White-eyed Parakeet,LC,
+375,Psittaciformes,Psittacidae,Eupsittula aurea,Peach-fronted Parakeet,LC,
+376,Psittaciformes,Psittacidae,Pyrrhura cruentata,Ochre-marked Parakeet,VU,X
+377,Psittaciformes,Psittacidae,Pyrrhura frontalis,Maroon-bellied Parakeet,LC,X
+378,Psittaciformes,Psittacidae,Pyrrhura leucotis,Maroon-faced Parakeet,NT,X
+379,Psittaciformes,Psittacidae,Forpus passerinus,Green-rumped Parrotlet,LC,
+380,Psittaciformes,Psittacidae,Forpus xanthopterygius,Blue-winged Parrotlet,LC,
+381,Psittaciformes,Psittacidae,Brotogeris tirica,Plain Parakeet,LC,X
+382,Psittaciformes,Psittacidae,Brotogeris chiriri,Yellow-chevroned Parakeet,LC,
+383,Psittaciformes,Psittacidae,Touit melanonotus,Brown-backed Parrotlet,VU,X
+384,Psittaciformes,Psittacidae,Touit surdus,Golden-tailed Parrotlet,VU,X
+385,Psittaciformes,Psittacidae,Pionopsitta pileata,Pileated Parrot,LC,X
+386,Psittaciformes,Psittacidae,Pionus menstruus,Blue-headed Parrot,LC,
+387,Psittaciformes,Psittacidae,Pionus reichenowi,Reichenow's Parrot,LC,X
+388,Psittaciformes,Psittacidae,Pionus maximiliani,Scaly-headed Parrot,LC,
+389,Psittaciformes,Psittacidae,Amazona vinacea,Vinaceous-breasted Parrot,EN,X
+390,Psittaciformes,Psittacidae,Amazona pretrei,Red-spectacled Parrot,VU,X
+391,Psittaciformes,Psittacidae,Amazona farinosa,Mealy Parrot,NT,
+392,Psittaciformes,Psittacidae,Amazona brasiliensis,Red-tailed Parrot,VU,X
+393,Psittaciformes,Psittacidae,Amazona amazonica,Orange-winged Parrot,LC,
+394,Psittaciformes,Psittacidae,Amazona rhodocorytha,Red-browed Parrot,EN,X
+395,Psittaciformes,Psittacidae,Amazona aestiva,Turquoise-fronted Parrot,LC,
+396,Psittaciformes,Psittacidae,Triclaria malachitacea,Blue-bellied Parrot,NT,X
+397,Passeriformes,Thamnophilidae,Terenura sicki,Orange-bellied Antwren,CR,X
+398,Passeriformes,Thamnophilidae,Terenura maculata,Streak-capped Antwren,LC,X
+399,Passeriformes,Thamnophilidae,Myrmotherula axillaris,White-flanked Antwren,LC,
+400,Passeriformes,Thamnophilidae,Myrmotherula minor,Salvadori's Antwren,VU,X
+401,Passeriformes,Thamnophilidae,Myrmotherula urosticta,Band-tailed Antwren,VU,X
+402,Passeriformes,Thamnophilidae,Myrmotherula fluminensis,Rio de Janeiro Antwren,LC,X
+403,Passeriformes,Thamnophilidae,Myrmotherula unicolor,Unicolored Antwren,NT,X
+404,Passeriformes,Thamnophilidae,Myrmotherula snowi,Alagoas Antwren,CR,X
+405,Passeriformes,Thamnophilidae,Formicivora iheringi,Narrow-billed Antwren,NT,
+406,Passeriformes,Thamnophilidae,Formicivora erythronotos,Black-hooded Antwren,EN,X
+407,Passeriformes,Thamnophilidae,Formicivora grisea,White-fringed Antwren,LC,
+408,Passeriformes,Thamnophilidae,Formicivora serrana,Serra Antwren,LC,X
+409,Passeriformes,Thamnophilidae,Formicivora littoralis,Restinga Antwren,LC,X
+410,Passeriformes,Thamnophilidae,Formicivora rufa,Rusty-backed Antwren,LC,
+411,Passeriformes,Thamnophilidae,Formicivora paludicola,SÆo Paulo Antwren,CR,X
+412,Passeriformes,Thamnophilidae,Formicivora acutirostris,Parana Antwren,EN,X
+413,Passeriformes,Thamnophilidae,Thamnomanes caesius,Cinereous Antshrike,LC,
+414,Passeriformes,Thamnophilidae,Rhopias gularis,Star-throated Antwren,LC,X
+415,Passeriformes,Thamnophilidae,Dysithamnus stictothorax,Spot-breasted Antvireo,NT,X
+416,Passeriformes,Thamnophilidae,Dysithamnus mentalis,Plain Antvireo,LC,
+417,Passeriformes,Thamnophilidae,Dysithamnus xanthopterus,Rufous-backed Antvireo,LC,X
+418,Passeriformes,Thamnophilidae,Dysithamnus plumbeus,Plumbeous Antvireo,VU,X
+419,Passeriformes,Thamnophilidae,Herpsilochmus pileatus,Bahia Antwren,VU,X
+420,Passeriformes,Thamnophilidae,Herpsilochmus atricapillus,Black-capped Antwren,LC,
+421,Passeriformes,Thamnophilidae,Herpsilochmus rufimarginatus,Rufous-winged Antwren,LC,
+422,Passeriformes,Thamnophilidae,Thamnophilus doliatus,Barred Antshrike,LC,
+423,Passeriformes,Thamnophilidae,Thamnophilus ruficapillus,Rufous-capped Antshrike,LC,
+424,Passeriformes,Thamnophilidae,Thamnophilus torquatus,Rufous-winged Antshrike,LC,
+425,Passeriformes,Thamnophilidae,Thamnophilus palliatus,Chestnut-backed Antshrike,LC,
+426,Passeriformes,Thamnophilidae,Thamnophilus pelzelni,Planalto Slaty-Antshrike,LC,
+427,Passeriformes,Thamnophilidae,Thamnophilus ambiguus,Sooretama Slaty-Antshrike,LC,X
+428,Passeriformes,Thamnophilidae,Thamnophilus caerulescens,Variable Antshrike,LC,
+429,Passeriformes,Thamnophilidae,Thamnophilus aethiops,White-shouldered Antshrike,LC,
+430,Passeriformes,Thamnophilidae,Taraba major,Great Antshrike,LC,
+431,Passeriformes,Thamnophilidae,Hypoedaleus guttatus,Spot-backed Antshrike,LC,X
+432,Passeriformes,Thamnophilidae,Batara cinerea,Giant Antshrike,LC,X
+433,Passeriformes,Thamnophilidae,Mackenziaena leachii,Large-tailed Antshrike,LC,X
+434,Passeriformes,Thamnophilidae,Mackenziaena severa,Tufted Antshrike,LC,X
+435,Passeriformes,Thamnophilidae,Myrmoderus loricatus,White-bibbed Antbird,LC,X
+436,Passeriformes,Thamnophilidae,Myrmoderus squamosus,Squamate Antbird,LC,X
+437,Passeriformes,Thamnophilidae,Pyriglena pernambucensis,Pernambuco Fire-eye,LC,X
+438,Passeriformes,Thamnophilidae,Pyriglena atra,Fringe-backed Fire-eye,EN,X
+439,Passeriformes,Thamnophilidae,Pyriglena leucoptera,White-shouldered Fire-eye,LC, 
+440,Passeriformes,Thamnophilidae,Rhopornis ardesiacus,Slender Antbird,EN,X
+441,Passeriformes,Thamnophilidae,Cercomacra brasiliana,Rio de Janeiro Antbird,NT,X
+442,Passeriformes,Thamnophilidae,Cercomacroides laeta,Willis's Antbird,LC,
+443,Passeriformes,Thamnophilidae,Drymophila ferruginea,Ferruginous Antbird,LC,X
+444,Passeriformes,Thamnophilidae,Drymophila rubricollis,Bertoni's Antbird,LC,X
+445,Passeriformes,Thamnophilidae,Drymophila genei,Rufous-tailed Antbird,LC,X
+446,Passeriformes,Thamnophilidae,Drymophila ochropyga,Ochre-rumped Antbird,NT,X
+447,Passeriformes,Thamnophilidae,Drymophila malura,Dusky-tailed Antbird,LC,X
+448,Passeriformes,Thamnophilidae,Drymophila squamata,Scaled Antbird,LC,X
+449,Passeriformes,Thamnophilidae,Melanopareia torquata,Collared Crescentchest,LC,
+450,Passeriformes,Thamnophilidae,Conopophaga cearae,Ceara Gnateater,LC,X
+451,Passeriformes,Thamnophilidae,Conopophaga lineata,Rufous Gnateater,LC, 
+452,Passeriformes,Thamnophilidae,Conopophaga melanops,Black-cheeked Gnateater,LC,X
+453,Passeriformes,Grallariidae,Grallaria varia,Variegated Antpitta,LC,
+454,Passeriformes,Grallariidae,Hylopezus ochroleucus,White-browed Antpitta,NT, 
+455,Passeriformes,Grallariidae,Hylopezus nattereri,Speckle-breasted Antpitta,LC,X
+456,Passeriformes,Rhinocryptidae,Merulaxis ater,Slaty Bristlefront,NT,X
+457,Passeriformes,Rhinocryptidae,Eleoscytalopus indigoticus,White-breasted Tapaculo,NT,X
+458,Passeriformes,Rhinocryptidae,Scytalopus speluncae,Mouse-colored Tapaculo,LC,X
+459,Passeriformes,Rhinocryptidae,Scytalopus petrophilus,Rock Tapaculo,LC,X
+460,Passeriformes,Rhinocryptidae,Scytalopus iraiensis,Marsh Tapaculo,EN,X
+461,Passeriformes,Rhinocryptidae,Psilorhamphus guttatus,Spotted Bamboowren,NT,X
+462,Passeriformes,Formicariidae,Formicarius colma,Rufous-capped Antthrush,LC,
+463,Passeriformes,Formicariidae,Chamaeza campanisona,Short-tailed Antthrush,LC,
+464,Passeriformes,Formicariidae,Chamaeza meruloides,Such's Antthrush,LC,
+465,Passeriformes,Formicariidae,Chamaeza ruficauda,Rufous-tailed Antthrush,LC,X
+466,Passeriformes,Scleruridae,Sclerurus macconnelli,Tawny-throated Leaftosser,LC,
+467,Passeriformes,Scleruridae,Sclerurus caudacutus,Black-tailed Leaftosser,LC,
+468,Passeriformes,Scleruridae,Sclerurus scansor,Rufous-breasted Leaftosser,LC,X
+469,Passeriformes,Scleruridae,Geositta poeciloptera,Campo Miner,VU,
+470,Passeriformes,Scleruridae,Geositta cunicularia,Common Miner,LC,
+471,Passeriformes,Dendrocolaptidae,Dendrocincla fuliginosa,Plain-brown Woodcreeper,LC,
+472,Passeriformes,Dendrocolaptidae,Dendrocincla taunayi,Pernambuco Woodcreeper,LC,X
+473,Passeriformes,Dendrocolaptidae,Dendrocincla turdina,Plain-winged Woodcreeper,LC,X
+474,Passeriformes,Dendrocolaptidae,Sittasomus griseicapillus,Olivaceous Woodcreeper,LC,
+475,Passeriformes,Dendrocolaptidae,Xiphorhynchus atlanticus,Northern Lesser Woodcreeper,LC,X
+476,Passeriformes,Dendrocolaptidae,Xiphorhynchus fuscus,Lesser Woodcreeper,LC,X
+477,Passeriformes,Dendrocolaptidae,Xiphorhynchus guttatus,Buff-throated Woodcreeper,LC,
+478,Passeriformes,Dendrocolaptidae,Campylorhamphus falcularius,Black-billed Scythebill,LC,X
+479,Passeriformes,Dendrocolaptidae,Campylorhamphus trochilirostris,Red-billed Scythebill,LC,
+480,Passeriformes,Dendrocolaptidae,Dendroplex picus,Straight-billed Woodcreeper,LC,
+481,Passeriformes,Dendrocolaptidae,Lepidocolaptes angustirostris,Narrow-billed Woodcreeper,LC,
+482,Passeriformes,Dendrocolaptidae,Lepidocolaptes squamatus,Scaled Woodcreeper,LC,X
+483,Passeriformes,Dendrocolaptidae,Lepidocolaptes falcinellus,Scalloped Woodcreeper,LC,X
+484,Passeriformes,Dendrocolaptidae,Dendrocolaptes platyrostris,Planalto Woodcreeper,LC,
+485,Passeriformes,Dendrocolaptidae,Xiphocolaptes falcirostris,Moustached Woodcreeper,VU,
+486,Passeriformes,Dendrocolaptidae,Xiphocolaptes albicollis,White-throated Woodcreeper,LC,X
+487,Passeriformes,Dendrocolaptidae,Xenops minutus,Plain Xenops,LC,
+488,Passeriformes,Dendrocolaptidae,Xenops rutilans,Streaked Xenops,LC,
+489,Passeriformes,Furnariidae,Furnarius figulus,Wing-banded Hornero,LC,
+490,Passeriformes,Furnariidae,Furnarius leucopus,Pale-legged Hornero,LC,
+491,Passeriformes,Furnariidae,Furnarius rufus,Rufous Hornero,LC,
+492,Passeriformes,Furnariidae,Phleocryptes melanops,Wren-like Rushbird,LC,
+493,Passeriformes,Furnariidae,Lochmias nematura,Sharp-tailed Streamcreeper,LC,
+494,Passeriformes,Furnariidae,Automolus lammi,Pernambuco Foliage-gleaner,VU,X
+495,Passeriformes,Furnariidae,Automolus leucophthalmus,White-eyed Foliage-gleaner,LC,X
+496,Passeriformes,Furnariidae,Anabacerthia lichtensteini,Ochre-breasted Foliage-gleaner,LC,X
+497,Passeriformes,Furnariidae,Philydor atricapillus,Black-capped Foliage-gleaner,LC,X
+498,Passeriformes,Furnariidae,Philydor rufum,Buff-fronted Foliage-gleaner,LC,
+499,Passeriformes,Furnariidae,Heliobletus contaminatus,Sharp-billed Treehunter,LC,X
+500,Passeriformes,Furnariidae,Syndactyla rufosuperciliata,Buff-browed Foliage-gleaner,LC, 
+501,Passeriformes,Furnariidae,Cichlocolaptes leucophrus,Pale-browed Treehunter,LC,X
+502,Passeriformes,Furnariidae,Leptasthenura striolata,Striolated Tit-Spinetail,LC,X
+503,Passeriformes,Furnariidae,Leptasthenura setaria,Araucaria Tit-Spinetail,NT,X
+504,Passeriformes,Furnariidae,Pseudoseisura cristata,Caatinga Cacholote,LC,
+505,Passeriformes,Furnariidae,Phacellodomus rufifrons,Rufous-fronted Thornbird,LC,
+506,Passeriformes,Furnariidae,Phacellodomus erythrophthalmus,Orange-eyed Thornbird,LC,X
+507,Passeriformes,Furnariidae,Phacellodomus ferrugineigula,Orange-breasted Thornbird,LC,X
+508,Passeriformes,Furnariidae,Synallaxis ruficapilla,Rufous-capped Spinetail,LC,X
+509,Passeriformes,Furnariidae,Synallaxis cinerea,Bahia Spinetail,NT,X
+510,Passeriformes,Furnariidae,Synallaxis infuscata,Pinto's Spinetail,EN,X
+511,Passeriformes,Furnariidae,Synallaxis cinerascens,Gray-bellied Spinetail,LC,X
+512,Passeriformes,Furnariidae,Synallaxis frontalis,Sooty-fronted Spinetail,LC,
+513,Passeriformes,Furnariidae,Synallaxis albescens,Pale-breasted Spinetail,LC,
+514,Passeriformes,Furnariidae,Synallaxis spixi,Spix's Spinetail,LC,
+515,Passeriformes,Furnariidae,Synallaxis hypospodia,Cinereous-breasted Spinetail,LC,
+516,Passeriformes,Furnariidae,Synallaxis scutata,Ochre-cheeked Spinetail,LC,
+517,Passeriformes,Furnariidae,Cranioleuca vulpina,Rusty-backed Spinetail,LC,
+518,Passeriformes,Furnariidae,Cranioleuca obsoleta,Olive Spinetail,LC,X
+519,Passeriformes,Furnariidae,Cranioleuca pallida,Pallid Spinetail,LC,X
+520,Passeriformes,Furnariidae,Thripophaga macroura,Striated Softtail,VU,X
+521,Passeriformes,Pipridae ,Neopelma aurifrons,Wied's Tyrant-Manakin,VU,X
+522,Passeriformes,Pipridae ,Neopelma chrysolophum,Serra do Mar Tyrant-Manakin,LC,X
+523,Passeriformes,Pipridae ,Pipra fasciicauda,Band-tailed Manakin,LC,
+524,Passeriformes,Pipridae ,Ceratopipra rubrocapilla,Red-headed Manakin,LC,
+525,Passeriformes,Pipridae ,Manacus manacus,White-bearded Manakin,LC,
+526,Passeriformes,Pipridae ,Machaeropterus regulus,Striped Manakin,LC,X
+527,Passeriformes,Pipridae ,Dixiphia pipra,White-crowned Manakin,LC,
+528,Passeriformes,Pipridae ,Ilicura militaris,Pin-tailed Manakin,LC,
+529,Passeriformes,Pipridae ,Chiroxiphia pareola,Blue-backed Manakin,LC,
+530,Passeriformes,Pipridae ,Chiroxiphia caudata,Swallow-tailed Manakin,LC,X
+531,Passeriformes,Pipridae ,Antilophia galeata,Helmeted Manakin,LC,
+532,Passeriformes,Pipridae ,Antilophia bokermanni ,Araripe Manakin,CR,X
+533,Passeriformes,Oxyruncidae,Oxyruncus cristatus,Sharpbill,LC,
+534,Passeriformes,Onychorhynchidae,Onychorhynchus swainsoni,Atlantic Royal Flycatcher,VU,X
+535,Passeriformes,Onychorhynchidae,Myiobius barbatus,Whiskered Flycatcher,LC,
+536,Passeriformes,Onychorhynchidae,Myiobius atricaudus,Black-tailed Flycatcher,LC,
+537,Passeriformes,Tityridae,Schiffornis virescens,Greenish Schiffornis,LC,X
+538,Passeriformes,Tityridae,Schiffornis turdina,Thrush-like Schiffornis,LC,
+539,Passeriformes,Tityridae,Laniocera hypopyrra,Cinereous Mourner,LC,
+540,Passeriformes,Tityridae,Laniisoma elegans,Shrike-like Cotinga,NT,
+541,Passeriformes,Tityridae,Iodopleura pipra,Buff-throated Purpletuft,EN,X
+542,Passeriformes,Tityridae,Tityra inquisitor,Black-crowned Tityra,LC,
+543,Passeriformes,Tityridae,Tityra cayana,Black-tailed Tityra,LC,
+544,Passeriformes,Tityridae,Pachyramphus viridis,Green-backed Becard,LC,
+545,Passeriformes,Tityridae,Pachyramphus castaneus,Chestnut-crowned Becard,LC,
+546,Passeriformes,Tityridae,Pachyramphus polychopterus,White-winged Becard,LC,
+547,Passeriformes,Tityridae,Pachyramphus marginatus,Black-capped Becard,LC,
+548,Passeriformes,Tityridae,Pachyramphus validus,Crested Becard,LC,
+549,Passeriformes,Cotingidae,Carpornis cucullata,Hooded Berryeater,NT,X
+550,Passeriformes,Cotingidae,Carpornis melanocephala,Black-headed Berryeater,VU,X
+551,Passeriformes,Cotingidae,Phibalura flavirostris,Swallow-tailed Cotinga,NT,X
+552,Passeriformes,Cotingidae,Pyroderus scutatus,Red-ruffed Fruitcrow,LC,
+553,Passeriformes,Cotingidae,Lipaugus ater,Black-and-gold Cotinga,NT,X
+554,Passeriformes,Cotingidae,Lipaugus conditus,Gray-winged Cotinga,VU,X
+555,Passeriformes,Cotingidae,Lipaugus lanioides,Cinnamon-vented Piha,NT,X
+556,Passeriformes,Cotingidae,Lipaugus vociferans,Screaming Piha,LC,
+557,Passeriformes,Cotingidae,Procnias averano,Bearded Bellbird,LC,
+558,Passeriformes,Cotingidae,Procnias nudicollis,Bare-throated Bellbird,VU,X
+559,Passeriformes,Cotingidae,Cotinga maculata,Banded Cotinga,EN,X
+560,Passeriformes,Cotingidae,Xipholena atropurpurea,White-winged Cotinga,EN,X
+561,Passeriformes,Pipritidae,Piprites chloris,Wing-barred Piprites,LC, 
+562,Passeriformes,Pipritidae,Piprites pileata,Black-capped Piprites,VU,X
+563,Passeriformes,Platyrinchidae,Calyptura cristata,Kinglet Calyptura,CR,X
+564,Passeriformes,Platyrinchidae,Platyrinchus mystaceus,White-throated Spadebill,LC,
+565,Passeriformes,Platyrinchidae,Platyrinchus leucoryphus,Russet-winged Spadebill,VU,X
+566,Passeriformes,Tachurisidae,Tachuris rubrigastra,Many-colored Rush Tyrant,LC,
+567,Passeriformes,Rhynchocyclidae ,Mionectes oleagineus,Ochre-bellied Flycatcher,LC,
+568,Passeriformes,Rhynchocyclidae ,Mionectes rufiventris,Gray-hooded Flycatcher,LC,X
+569,Passeriformes,Rhynchocyclidae ,Leptopogon amaurocephalus,Sepia-capped Flycatcher,LC,
+570,Passeriformes,Rhynchocyclidae ,Corythopis delalandi,Southern Antpipit,LC,
+571,Passeriformes,Rhynchocyclidae ,Phylloscartes eximius,Southern Bristle-Tyrant,LC,X
+572,Passeriformes,Rhynchocyclidae ,Phylloscartes ventralis,Mottle-cheeked Tyrannulet,LC, 
+573,Passeriformes,Rhynchocyclidae ,Phylloscartes kronei,Restinga Tyrannulet,VU,X
+574,Passeriformes,Rhynchocyclidae ,Phylloscartes beckeri,Bahia Tyrannulet,EN,X
+575,Passeriformes,Rhynchocyclidae ,Phylloscartes roquettei,Minas Gerais Tyrannulet,EN,
+576,Passeriformes,Rhynchocyclidae ,Phylloscartes paulista,Sao Paulo Tyrannulet,NT,X
+577,Passeriformes,Rhynchocyclidae ,Phylloscartes oustaleti,Oustalet's Tyrannulet,NT,X
+578,Passeriformes,Rhynchocyclidae ,Phylloscartes difficilis,Serra do Mar Tyrannulet,NT,X
+579,Passeriformes,Rhynchocyclidae ,Phylloscartes sylviolus,Bay-ringed Tyrannulet,NT,X
+580,Passeriformes,Rhynchocyclidae ,Rhynchocyclus olivaceus,Olivaceous Flatbill,LC,
+581,Passeriformes,Rhynchocyclidae ,Tolmomyias sulphurescens,Yellow-olive Flycatcher,LC,
+582,Passeriformes,Rhynchocyclidae ,Tolmomyias poliocephalus,Gray-crowned Flycatcher,LC,
+583,Passeriformes,Rhynchocyclidae ,Todirostrum poliocephalum,Gray-headed Tody-Flycatcher,LC,X
+584,Passeriformes,Rhynchocyclidae ,Todirostrum cinereum,Common Tody-Flycatcher,LC,
+585,Passeriformes,Rhynchocyclidae ,Poecilotriccus plumbeiceps,Ochre-faced Tody-Flycatcher,LC,
+586,Passeriformes,Rhynchocyclidae ,Poecilotriccus fumifrons,Smoky-fronted Tody-Flycatcher,LC,
+587,Passeriformes,Rhynchocyclidae ,Myiornis auricularis,Eared Pygmy-Tyrant,LC,X
+589,Passeriformes,Rhynchocyclidae ,Hemitriccus diops,Drab-breasted Pygmy-Tyrant,LC,X
+590,Passeriformes,Rhynchocyclidae ,Hemitriccus obsoletus,Brown-breasted Pygmy-Tyrant,LC,X
+591,Passeriformes,Rhynchocyclidae ,Hemitriccus griseipectus,White-bellied Tody-Tyrant,LC,
+592,Passeriformes,Rhynchocyclidae ,Hemitriccus orbitatus,Eye-ringed Tody-Tyrant,NT,X
+593,Passeriformes,Rhynchocyclidae ,Hemitriccus striaticollis,Stripe-necked Tody-Tyrant,LC,
+594,Passeriformes,Rhynchocyclidae ,Hemitriccus nidipendulus,Hangnest Tody-Tyrant,LC,X
+595,Passeriformes,Rhynchocyclidae ,Hemitriccus margaritaceiventer,Pearly-vented Tody-tyrant,LC,
+596,Passeriformes,Rhynchocyclidae ,Hemitriccus mirandae,Buff-breasted Tody-Tyrant,VU,X
+597,Passeriformes,Rhynchocyclidae ,Hemitriccus kaempferi,Kaempfer's Tody-Tyrant,EN,X
+598,Passeriformes,Rhynchocyclidae ,Hemitriccus furcatus,Fork-tailed Pygmy-Tyrant,VU,X
+599,Passeriformes,Tyrannidae,Hirundinea ferruginea,Cliff Flycatcher,LC,
+600,Passeriformes,Tyrannidae,Zimmerius gracilipes,Slender-footed Tyrannulet,LC,
+601,Passeriformes,Tyrannidae,Euscarthmus meloryphus,Tawny-crowned Pygmy-Tyrant,LC,
+602,Passeriformes,Tyrannidae,Tyranniscus burmeisteri,Rough-legged Tyrannulet,LC,
+603,Passeriformes,Tyrannidae,Camptostoma obsoletum,Southern Beardless-Tyrannulet,LC,
+604,Passeriformes,Tyrannidae,Elaenia flavogaster,Yellow-bellied Elaenia,LC,
+605,Passeriformes,Tyrannidae,Elaenia spectabilis,Large Elaenia,LC,
+606,Passeriformes,Tyrannidae,Elaenia chilensis,Chilean Elaenia,LC,
+607,Passeriformes,Tyrannidae,Elaenia parvirostris,Small-billed Elaenia,LC,
+608,Passeriformes,Tyrannidae,Elaenia mesoleuca,Olivaceous Elaenia,LC,X
+609,Passeriformes,Tyrannidae,Elaenia cristata,Plain-crested Elaenia,LC,
+610,Passeriformes,Tyrannidae,Elaenia chiriquensis,Lesser Elaenia,LC,
+611,Passeriformes,Tyrannidae,Elaenia obscura,Highland Elaenia,LC,
+612,Passeriformes,Tyrannidae,Myiopagis gaimardii,Forest Elaenia,LC,
+613,Passeriformes,Tyrannidae,Myiopagis caniceps,Gray Elaenia,LC,
+614,Passeriformes,Tyrannidae,Myiopagis viridicata,Greenish Elaenia,LC,
+615,Passeriformes,Tyrannidae,Capsiempis flaveola,Yellow Tyrannulet,LC,
+616,Passeriformes,Tyrannidae,Phaeomyias murina,Mouse-colored Tyrannulet,LC,
+617,Passeriformes,Tyrannidae,Phyllomyias virescens,Greenish Tyrannulet,LC,X
+618,Passeriformes,Tyrannidae,Phyllomyias fasciatus,Planalto Tyrannulet,LC,
+619,Passeriformes,Tyrannidae,Phyllomyias griseocapilla,Gray-capped Tyrannulet,NT,X
+620,Passeriformes,Tyrannidae,Polystictus pectoralis,Bearded Tachuri,NT,
+621,Passeriformes,Tyrannidae,Polystictus superciliaris,Gray-backed Tachuri,LC,
+622,Passeriformes,Tyrannidae,Pseudocolopteryx sclateri,Crested Doradito,LC,
+623,Passeriformes,Tyrannidae,Serpophaga nigricans,Sooty Tyrannulet,LC,
+624,Passeriformes,Tyrannidae,Serpophaga subcristata,White-crested Tyrannulet,LC,
+625,Passeriformes,Tyrannidae,Legatus leucophaius,Piratic Flycatcher,LC,
+626,Passeriformes,Tyrannidae,Ramphotrigon megacephalum,Large-headed Flatbill,LC,
+627,Passeriformes,Tyrannidae,Myiarchus tuberculifer,Dusky-capped Flycatcher,LC,
+628,Passeriformes,Tyrannidae,Myiarchus swainsoni,Swainson's Flycatcher,LC,
+629,Passeriformes,Tyrannidae,Myiarchus ferox,Short-crested Flycatcher,LC,
+630,Passeriformes,Tyrannidae,Myiarchus tyrannulus,Brown-crested Flycatcher,LC,
+631,Passeriformes,Tyrannidae,Sirystes sibilator,Sibilant Sirystes,LC,
+632,Passeriformes,Tyrannidae,Rhytipterna simplex,Grayish Mourner,LC,
+633,Passeriformes,Tyrannidae,Casiornis rufus,Rufous Casiornis,LC,
+634,Passeriformes,Tyrannidae,Casiornis fuscus,Ash-throated Casiornis,LC,
+635,Passeriformes,Tyrannidae,Pitangus sulphuratus,Great Kiskadee,LC,
+636,Passeriformes,Tyrannidae,Philohydor lictor,Lesser Kiskadee,LC,
+637,Passeriformes,Tyrannidae,Machetornis rixosa,Cattle Tyrant,LC,
+638,Passeriformes,Tyrannidae,Myiodynastes maculatus,Streaked Flycatcher,LC,
+639,Passeriformes,Tyrannidae,Megarynchus pitangua,Boat-billed Flycatcher,LC,
+640,Passeriformes,Tyrannidae,Myiozetetes cayanensis,Rusty-margined Flycatcher,LC,
+641,Passeriformes,Tyrannidae,Myiozetetes similis,Social Flycatcher,LC,
+642,Passeriformes,Tyrannidae,Tyrannus albogularis,White-throated Kingbird,LC,
+643,Passeriformes,Tyrannidae,Tyrannus melancholicus,Tropical Kingbird,LC,
+644,Passeriformes,Tyrannidae,Tyrannus savana,Fork-tailed Flycatcher,LC,
+645,Passeriformes,Tyrannidae,Griseotyrannus aurantioatrocristatus,Crowned Slaty Flycatcher,LC,
+646,Passeriformes,Tyrannidae,Empidonomus varius,Variegated Flycatcher,LC,
+647,Passeriformes,Tyrannidae,Conopias trivirgatus,Three-striped Flycatcher,LC,
+648,Passeriformes,Tyrannidae,Colonia colonus,Long-tailed Tyrant,LC,
+649,Passeriformes,Tyrannidae,Myiophobus fasciatus,Bran-colored Flycatcher,LC,
+650,Passeriformes,Tyrannidae,Pyrocephalus rubinus,Vermilion Flycatcher,LC,
+651,Passeriformes,Tyrannidae,Fluvicola albiventer,Black-backed Water-Tyrant,LC,
+652,Passeriformes,Tyrannidae,Fluvicola nengeta,Masked Water-Tyrant,LC,
+653,Passeriformes,Tyrannidae,Gubernetes yetapa,Streamer-tailed Tyrant,LC,
+654,Passeriformes,Tyrannidae,Cnemotriccus fuscatus,Fuscous Flycatcher,LC,
+655,Passeriformes,Tyrannidae,Lathrotriccus euleri,Euler's Flycatcher,LC,
+656,Passeriformes,Tyrannidae,Contopus cooperi,Olive-sided Flycatcher,NT,
+657,Passeriformes,Tyrannidae,Contopus cinereus,Tropical Pewee,LC,
+658,Passeriformes,Tyrannidae,Knipolegus cyanirostris,Blue-billed Black-Tyrant,LC,
+659,Passeriformes,Tyrannidae,Knipolegus lophotes,Crested Black-Tyrant,LC,
+660,Passeriformes,Tyrannidae,Knipolegus nigerrimus,Velvety Black-Tyrant,LC,
+661,Passeriformes,Tyrannidae,Hymenops perspicillatus,Spectacled Tyrant,LC,
+662,Passeriformes,Tyrannidae,Satrapa icterophrys,Yellow-browed Tyrant,LC,
+663,Passeriformes,Tyrannidae,Xolmis cinereus,Gray Monjita,LC,
+664,Passeriformes,Tyrannidae,Xolmis velatus,White-rumped Monjita,LC,
+665,Passeriformes,Tyrannidae,Xolmis irupero,White Monjita,LC,
+666,Passeriformes,Tyrannidae,Muscipipra vetula,Shear-tailed Gray Tyrant,LC,X
+667,Passeriformes,Vireonidae,Cyclarhis gujanensis,Rufous-browed Peppershrike,LC,
+668,Passeriformes,Vireonidae,Hylophilus amaurocephalus,Gray-eyed Greenlet,LC,
+669,Passeriformes,Vireonidae,Hylophilus poicilotis,Rufous-crowned Greenlet,LC,
+670,Passeriformes,Vireonidae,Hylophilus thoracicus,Lemon-chested Greenlet,LC,
+671,Passeriformes,Vireonidae,Vireo chivi,Chivi Vireo,LC,
+672,Passeriformes,Corvidae,Cyanocorax caeruleus,Azure Jay,LC,X
+673,Passeriformes,Corvidae,Cyanocorax chrysops,Plush-crested Jay,LC,
+674,Passeriformes,Corvidae,Cyanocorax cyanopogon,White-naped Jay,LC,
+675,Passeriformes,Hirundinidae,Pygochelidon cyanoleuca,Blue-and-white Swallow,LC,
+676,Passeriformes,Hirundinidae,Alopochelidon fucata,Tawny-headed Swallow,LC,
+677,Passeriformes,Hirundinidae,Stelgidopteryx ruficollis,Southern Rough-winged Swallow,LC,
+678,Passeriformes,Hirundinidae,Progne tapera,Brown-chested Martin,LC,
+679,Passeriformes,Hirundinidae,Progne subis,Purple Martin,LC,
+680,Passeriformes,Hirundinidae,Progne chalybea,Gray-breasted Martin,LC,
+681,Passeriformes,Hirundinidae,Tachycineta albiventer,White-winged Swallow,LC,
+682,Passeriformes,Hirundinidae,Tachycineta leucorrhoa,White-rumped Swallow,LC,
+683,Passeriformes,Hirundinidae,Riparia riparia,Bank Swallow,LC,
+684,Passeriformes,Hirundinidae,Hirundo rustica,Barn Swallow,LC,
+685,Passeriformes,Hirundinidae,Petrochelidon pyrrhonota,Cliff Swallow,LC,
+686,Passeriformes,Troglodytidae,Troglodytes musculus,Southern House Wren,LC,
+687,Passeriformes,Troglodytidae,Campylorhynchus turdinus,Thrush-like Wren,LC,
+688,Passeriformes,Troglodytidae,Pheugopedius genibarbis,Moustached Wren,LC,
+689,Passeriformes,Troglodytidae,Cantorchilus leucotis,Buff-breasted Wren,LC,
+690,Passeriformes,Troglodytidae,Cantorchilus longirostris,Long-billed Wren,LC,
+691,Passeriformes,Donacobiidae,Donacobius atricapilla,Black-capped Donacobius,LC,
+692,Passeriformes,Polioptilidae,Ramphocaenus melanurus,Long-billed Gnatwren,LC,
+693,Passeriformes,Polioptilidae,Polioptila plumbea,Tropical Gnatcatcher,LC,
+694,Passeriformes,Polioptilidae,Polioptila lactea,Creamy-bellied Gnatcatcher,NT,
+695,Passeriformes,Polioptilidae,Polioptila dumicola,Masked Gnatcatcher,LC,
+696,Passeriformes,Turdidae,Catharus fuscescens,Veery,LC,
+697,Passeriformes,Turdidae,Catharus swainsoni,Swainson's Thrush,LC,
+698,Passeriformes,Turdidae,Cichlopsis leucogenys,Rufous-brown Solitaire,EN,
+699,Passeriformes,Turdidae,Turdus flavipes,Yellow-legged Thrush,LC,
+700,Passeriformes,Turdidae,Turdus leucomelas,Pale-breasted Thrush,LC,
+701,Passeriformes,Turdidae,Turdus fumigatus,Cocoa Thrush,LC,
+702,Passeriformes,Turdidae,Turdus rufiventris,Rufous-bellied Thrush,LC,
+703,Passeriformes,Turdidae,Turdus amaurochalinus,Creamy-bellied Thrush,LC,
+704,Passeriformes,Turdidae,Turdus subalaris,Eastern Slaty Thrush,LC,
+705,Passeriformes,Turdidae,Turdus albicollis,White-necked Thrush,LC,
+706,Passeriformes,Mimidae,Mimus gilvus,Tropical Mockingbird,LC,
+707,Passeriformes,Mimidae,Mimus saturninus,Chalk-browed Mockingbird,LC,
+708,Passeriformes,Mimidae,Mimus triurus,White-banded Mockingbird,LC,
+709,Passeriformes,Motacillidae,Anthus correndera,Correndera Pipit,LC,
+710,Passeriformes,Motacillidae,Anthus lutescens ,Yellowish Pipit,LC,
+711,Passeriformes,Motacillidae,Anthus furcatus,Short-billed Pipit,LC,
+712,Passeriformes,Motacillidae,Anthus hellmayri,Hellmayr's Pipit,LC,
+713,Passeriformes,Motacillidae,Anthus nattereri ,Ochre-breasted Pipit,VU,
+714,Passeriformes,Passerellidae,Zonotrichia capensis,Rufous-collared Sparrow,LC,
+715,Passeriformes,Passerellidae,Ammodramus humeralis,Grassland Sparrow,LC,
+716,Passeriformes,Parulidae,Setophaga pitiayumi,Tropical Parula,LC,
+717,Passeriformes,Parulidae,Setophaga striata,Blackpoll Warbler,LC,
+718,Passeriformes,Parulidae,Setophaga fusca,Blackburnian Warbler,LC,
+719,Passeriformes,Parulidae,Geothlypis aequinoctialis,Masked Yellowthroat,LC,
+720,Passeriformes,Parulidae,Myiothlypis flaveola,Flavescent Warbler,LC,
+721,Passeriformes,Parulidae,Myiothlypis leucoblephara,White-browed Warbler,LC,X
+722,Passeriformes,Parulidae,Myiothlypis rivularis,Neotropical River Warbler,LC,X
+723,Passeriformes,Icteridae,Psarocolius decumanus,Crested Oropendola,LC,
+724,Passeriformes,Icteridae,Procacicus solitarius,Solitary Black Cacique,LC,
+725,Passeriformes,Icteridae,Cacicus cela,Yellow-rumped Cacique,LC,
+726,Passeriformes,Icteridae,Icterus pyrrhopterus,Variable Oriole,LC,
+727,Passeriformes,Icteridae,Icterus jamacaii,Campo Troupial,LC,
+728,Passeriformes,Icteridae,Gnorimopsar chopi,Chopi Blackbird,LC,
+729,Passeriformes,Icteridae,Chrysomus ruficapillus,Chestnut-capped Blackbird,LC,
+730,Passeriformes,Icteridae,Pseudoleistes guirahuro,Yellow-rumped Marshbird,LC,
+731,Passeriformes,Icteridae,Pseudoleistes virescens,Brown-and-yellow Marshbird,LC,
+732,Passeriformes,Icteridae,Agelaioides badius,Grayish Baywing,LC,
+733,Passeriformes,Icteridae,Molothrus rufoaxillaris,Screaming Cowbird,LC,
+734,Passeriformes,Icteridae,Molothrus oryzivorus,Giant Cowbird,LC,
+735,Passeriformes,Icteridae,Molothrus bonariensis,Shiny Cowbird,LC,
+736,Passeriformes,Icteridae,Sturnella superciliaris,White-browed Meadowlark,LC,
+737,Passeriformes,Icteridae,Dolichonyx oryzivorus,Bobolink,LC,
+738,Passeriformes,Mitrospingidae,Orthogonys chloricterus,Olive-green Tanager,LC,X
+739,Passeriformes,Thraupidae,Orchesticus abeillei,Brown Tanager,NT,X
+740,Passeriformes,Thraupidae,Pipraeidea melanonota,Fawn-breasted Tanager,LC,
+741,Passeriformes,Thraupidae,Pipraeidea bonariensis,Blue-and-yellow Tanager,LC,
+742,Passeriformes,Thraupidae,Stephanophorus diadematus,Diademed Tanager,LC,
+743,Passeriformes,Thraupidae,Cissopis leverianus,Magpie Tanager,LC,
+744,Passeriformes,Thraupidae,Schistochlamys melanopis,Black-faced Tanager,LC,
+745,Passeriformes,Thraupidae,Schistochlamys ruficapillus,Cinnamon Tanager,LC,
+746,Passeriformes,Thraupidae,Paroaria coronata,Red-crested Cardinal,LC,
+747,Passeriformes,Thraupidae,Paroaria dominicana,Red-cowled Cardinal,LC,
+748,Passeriformes,Thraupidae,Tangara brasiliensis,White-bellied Tanager,LC,X
+749,Passeriformes,Thraupidae,Tangara seledon,Green-headed Tanager,LC,X
+750,Passeriformes,Thraupidae,Tangara fastuosa,Seven-colored Tanager,VU,X
+751,Passeriformes,Thraupidae,Tangara cyanocephala,Red-necked Tanager,LC,X
+752,Passeriformes,Thraupidae,Tangara cyanoventris,Gilt-edged Tanager,LC,X
+753,Passeriformes,Thraupidae,Tangara desmaresti,Brassy-breasted Tanager,LC,X
+754,Passeriformes,Thraupidae,Tangara sayaca,Sayaca Tanager,LC,
+755,Passeriformes,Thraupidae,Tangara cyanoptera,Azure-shouldered Tanager,NT,X
+756,Passeriformes,Thraupidae,Tangara palmarum,Palm Tanager,LC,
+757,Passeriformes,Thraupidae,Tangara ornata,Golden-chevroned Tanager,LC,X
+758,Passeriformes,Thraupidae,Tangara peruviana,Black-backed Tanager,VU,X
+759,Passeriformes,Thraupidae,Tangara preciosa,Chestnut-backed Tanager,LC,
+760,Passeriformes,Thraupidae,Tangara cayana,Burnished-buff Tanager,LC,
+761,Passeriformes,Thraupidae,Nemosia pileata,Hooded Tanager,LC,
+762,Passeriformes,Thraupidae,Nemosia rourei,Cherry-throated Tanager,CR,X
+763,Passeriformes,Thraupidae,Conirostrum speciosum,Chestnut-vented Conebill,LC,
+764,Passeriformes,Thraupidae,Conirostrum bicolor,Bicolored Conebill,NT,
+765,Passeriformes,Thraupidae,Sicalis citrina,Stripe-tailed Yellow-Finch,LC,
+766,Passeriformes,Thraupidae,Sicalis flaveola,Saffron Finch,LC,
+767,Passeriformes,Thraupidae,Sicalis luteola,Grassland Yellow-Finch,LC,
+768,Passeriformes,Thraupidae,Haplospiza unicolor,Uniform Finch,LC,X
+769,Passeriformes,Thraupidae,Chlorophanes spiza,Green Honeycreeper,LC,
+770,Passeriformes,Thraupidae,Hemithraupis flavicollis,Yellow-backed Tanager,LC,
+771,Passeriformes,Thraupidae,Hemithraupis guira,Guira Tanager,LC,
+772,Passeriformes,Thraupidae,Hemithraupis ruficapilla,Rufous-headed Tanager,LC,
+773,Passeriformes,Thraupidae,Volatinia jacarina,Blue-black Grassquit,LC,
+774,Passeriformes,Thraupidae,Eucometis penicillata,Gray-headed Tanager,LC,
+775,Passeriformes,Thraupidae,Trichothraupis melanops,Black-goggled Tanager,LC,
+776,Passeriformes,Thraupidae,Coryphospingus pileatus,Pileated Finch,LC,
+777,Passeriformes,Thraupidae,Coryphospingus cucullatus,Red-crested Finch,LC,
+778,Passeriformes,Thraupidae,Lanio cristatus,Flame-crested Tanager,LC,
+779,Passeriformes,Thraupidae,Tachyphonus coronatus,Ruby-crowned Tanager,LC,X
+780,Passeriformes,Thraupidae,Ramphocelus bresilius,Brazilian Tanager,LC,X
+781,Passeriformes,Thraupidae,Ramphocelus carbo,Silver-beaked Tanager,LC,
+782,Passeriformes,Thraupidae,Tersina viridis,Swallow Tanager,LC,
+783,Passeriformes,Thraupidae,Cyanerpes cyaneus,Red-legged Honeycreeper,LC,
+784,Passeriformes,Thraupidae,Dacnis nigripes,Black-legged Dacnis,NT,X
+785,Passeriformes,Thraupidae,Dacnis cayana,Blue Dacnis,LC,
+786,Passeriformes,Thraupidae,Coereba flaveola,Bananaquit,LC,
+787,Passeriformes,Thraupidae,Tiaris fuliginosus,Sooty Grassquit,LC,
+788,Passeriformes,Thraupidae,Sporophila lineola,Lined Seedeater,LC,
+789,Passeriformes,Thraupidae,Sporophila frontalis,Buffy-fronted Seedeater,VU,X
+790,Passeriformes,Thraupidae,Sporophila falcirostris,Temminck's Seedeater,VU,X
+791,Passeriformes,Thraupidae,Sporophila collaris,Rusty-collared Seedeater,LC,
+792,Passeriformes,Thraupidae,Sporophila nigricollis,Yellow-bellied Seedeater,LC,
+793,Passeriformes,Thraupidae,Sporophila ardesiaca,Dubois's Seedeater,LC,
+794,Passeriformes,Thraupidae,Sporophila caerulescens,Double-collared Seedeater,LC,
+795,Passeriformes,Thraupidae,Sporophila albogularis,White-throated Seedeater,LC,
+796,Passeriformes,Thraupidae,Sporophila leucoptera,White-bellied Seedeater,LC,
+797,Passeriformes,Thraupidae,Sporophila bouvreuil,Copper Seedeater,LC,
+798,Passeriformes,Thraupidae,Sporophila pileata,Pearly-bellied Seedeater,LC,
+799,Passeriformes,Thraupidae,Sporophila angolensis,Chestnut-bellied Seed-Finch,LC,
+800,Passeriformes,Thraupidae,Sporophila maximiliani,Great-billed Seed-Finch,VU,
+801,Passeriformes,Thraupidae,Embernagra platensis,Great Pampa-Finch,LC,
+802,Passeriformes,Thraupidae,Embernagra longicauda,Pale-throated Pampa-Finch,LC,X
+803,Passeriformes,Thraupidae,Emberizoides herbicola,Wedge-tailed Grass-Finch,LC,
+804,Passeriformes,Thraupidae,Emberizoides ypiranganus,Lesser Grass-Finch,LC,
+805,Passeriformes,Thraupidae,Saltatricula atricollis,Black-throated Saltator,LC,
+806,Passeriformes,Thraupidae,Saltator maximus,Buff-throated Saltator,LC,
+807,Passeriformes,Thraupidae,Saltator similis,Green-winged Saltator,LC,
+808,Passeriformes,Thraupidae,Saltator maxillosus,Thick-billed Saltator,LC,X
+809,Passeriformes,Thraupidae,Saltator fuliginosus,Black-throated Grosbeak,LC,X
+810,Passeriformes,Thraupidae,Saltator coerulescens,Grayish Saltator,LC,
+811,Passeriformes,Thraupidae,Poospiza nigrorufa,Black-and-rufous Warbling-Finch,LC,
+812,Passeriformes,Thraupidae,Poospiza thoracica,Bay-chested Warbling-Finch,LC,X
+813,Passeriformes,Thraupidae,Microspingus lateralis,Buff-throated Warbling-Finch,LC,X
+814,Passeriformes,Thraupidae,Microspingus cabanisi,Gray-throated Warbling-Finch,LC,X
+815,Passeriformes,Thraupidae,Microspingus cinereus,Cinereous Warbling-Finch,VU,
+816,Passeriformes,Thraupidae,Thlypopsis sordida,Orange-headed Tanager,LC,
+817,Passeriformes,Thraupidae,Donacospiza albifrons,Long-tailed Reed Finch,LC,
+818,Passeriformes,Cardinalidae,Piranga flava,Hepatic Tanager,LC,
+819,Passeriformes,Cardinalidae,Habia rubica,Red-crowned Ant-Tanager,LC,X
+820,Passeriformes,Cardinalidae,Caryothraustes canadensis,Yellow-green Grosbeak,LC,
+821,Passeriformes,Cardinalidae,Cyanoloxia glaucocaerulea,Glaucous-blue Grosbeak,LC,
+822,Passeriformes,Cardinalidae,Cyanoloxia brissonii,Ultramarine Grosbeak,LC,
+823,Passeriformes,Fringillidae,Spinus yarrellii,Yellow-faced Siskin,VU,
+824,Passeriformes,Fringillidae,Spinus magellanicus,Hooded Siskin,LC,
+825,Passeriformes,Fringillidae,Euphonia chlorotica,Purple-throated Euphonia,LC,
+826,Passeriformes,Fringillidae,Euphonia violacea,Violaceous Euphonia,LC,
+827,Passeriformes,Fringillidae,Euphonia chalybea,Green-throated Euphonia,NT,X
+828,Passeriformes,Fringillidae,Euphonia cyanocephala,Golden-rumped Euphonia,LC,
+829,Passeriformes,Fringillidae,Euphonia xanthogaster,Orange-bellied Euphonia,LC,
+830,Passeriformes,Fringillidae,Euphonia pectoralis,Chestnut-bellied Euphonia,LC,X
+831,Passeriformes,Fringillidae,Chlorophonia cyanea,Blue-naped Chlorophonia,LC,
+832,Passeriformes,Estrildidae,Estrilda astrild,Common Waxbill,LC,
+833,Passeriformes,Passeridae,Passer domesticus,House Sparrow,LC,
