@@ -11,6 +11,8 @@
 
 [RevistaFAPESP – online version – 2018/05/21](http://revistapesquisa.fapesp.br/2018/05/21/as-metamorfoses-da-mata-atlantica/?cat=ciencia)
 
+[Jornal da Universidade Estadual de Santa Cruz – Ano XX, no. 273](jornal_UESC_273_2018_06_d01.pdf)
+
  
 
 **VIDEO:**
