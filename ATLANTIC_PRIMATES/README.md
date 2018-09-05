@@ -4,7 +4,7 @@ Mirrored from <https://github.com/LEEClab/ATLANTIC_PRIMATES>
 
 ATLANTIC-PRIMATES dataset is part of the ATLANTIC SERIES, on which research teams are compiling biodiversity information of  Atlantic Forest biome. 
 
-Culot et al...
+Culot et al. 2018. Atlantic-Primates: a dataset of communities and occurrences of primates in the Atlantic forests of South America. Ecology. 
 
 ### The datapaper was ACCEPTED in ECOLOGY journal, and will be out in September/2018
 
