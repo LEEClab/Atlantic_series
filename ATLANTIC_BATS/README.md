@@ -5,7 +5,9 @@
 ##### <img align="right" width="150" src="ats_v02_bats1.jpg"> MUYLAERT ET AL. 2017. ECOLOGY JOURNAL: doi: 10.1002/ecy.2007 - http://onlinelibrary.wiley.com/doi/10.1002/ecy.2007/suppinfo
 
 Last update: June 2020
+
 *The updated version of **ATLANTIC BATS** can be accessed [here](https://github.com/LEEClab/Atlantic_series/blob/master/ATLANTIC_BATS/DATASET/2018_02_d21/ATLANTIC_BATS_2020_comp.xlsx) in this **ATLANTIC SERIES** Github repository.*
+
 **The original dataset is fully available at ECOLOGY repository**. 
 
 
