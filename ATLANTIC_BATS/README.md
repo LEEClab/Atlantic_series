@@ -12,16 +12,16 @@ Last update: [June 2020](https://github.com/LEEClab/Atlantic_series/blob/master/
 
 Bats are the second most diverse mammal order and they provide vital ecosystem functions and services. ATLANTIC BATS data has 135 quantitative studies carried out in 205 sites, with more than 90,000 captures of 98 bat species. Six species occurred in more than 50% of the communities: Artibeus lituratus, Carollia perspicillata, Sturnira lilium, Artibeus fimbriatus, Glossophaga soricina, and Platyrrhinus lineatus. 
 
-[Outreach](https://wiley.altmetric.com/details/24853381)
-
-[Metrics](https://www.scopus.com/record/display.uri?eid=2-s2.0-85036517076&origin=resultslist#metrics)
-
-[Contact](renatamuy@gmail.com)
 
 [All ATLANTIC papers](https://esajournals.onlinelibrary.wiley.com/journal/19399170)
 
 [All ATLANTIC datasets](https://esajournals.onlinelibrary.wiley.com/journal/19399170)
 
+[Outreach](https://wiley.altmetric.com/details/24853381)
+
+[Metrics](https://www.scopus.com/record/display.uri?eid=2-s2.0-85036517076&origin=resultslist#metrics)
+
+[Contact](renatamuy@gmail.com)
 
 <p align="center"> 
 <img src="FIG01_major.png">
