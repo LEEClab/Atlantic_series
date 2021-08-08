@@ -14,6 +14,8 @@ Bats are the second most diverse mammal order and they provide vital ecosystem f
 
 [Outreach](https://wiley.altmetric.com/details/24853381)
 
+[Metrics](https://www.scopus.com/record/display.uri?eid=2-s2.0-85036517076&origin=resultslist#metrics)
+
 [Contact](renatamuy@gmail.com)
 
 <p align="center"> 
