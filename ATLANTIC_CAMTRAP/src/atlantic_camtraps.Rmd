@@ -1,0 +1,140 @@
+---
+title: "ATLANTIC CAMTRAPS - GRÁFICOS"
+author: "Fernando Lima"
+date: "9 de novembro de 2017"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r packages}
+library(here)
+library(ggplot2)
+library(forcats)
+library(RColorBrewer)
+```
+
+## DESCRIÇÃO
+
+Gráficos para o datapaper Atlantic-Camtraps.
+Adaptado e organizado a partir da primeira versão criada por Renata Muylaert.
+
+### GRUPO DE TRABALHO
+
+**pH** Fernando Lima, D.Sc.  
+**RM** Renata Muylaert, D.Sc.  
+**MR** Milton Ribeiro, D.Sc.  
+
+### NOTAS (README)
+
+ADICAO DE COMENTARIOS:
+Corpo do Texto: insira suas iniciais entre `**` e depois os comentarios: e.g. `**pH**` blablabla
+Código: 
+
+### Data prep
+####Select species and effort data
+```{r speciesData}
+data <- read.csv(here("data", "splist_filtered_2017_04d24.csv"), sep = ",")
+ef <- read.csv(here("data", "effort.txt"), sep="\t")
+```
+
+####Ordenando data por ordem e por FO:
+```{r ordering}
+data <- data[order(data$fo),]
+
+str(data)
+
+unique(data$sp_id)
+
+head(data)
+```
+
+###FIGURE 01 - MAP
+
+Generated in ArcGis by Fernando Lima
+
+```{r, echo=FALSE, out.width="700px"}
+knitr::include_graphics(here("figures","ATLANTIC_CAMTRAPS_FIG01.tif"))
+```
+**Fig. 1.** Distribution of the camera trap surveys of medium and large terrestrial mammal communities within the Atlantic Forest extent. Gray shows the Atlantic Forest extent with remaining forest patches in green (sensu Ribeiro et al. 2009). Blue dots show the geographic locations of studies.
+
+###FIGURA 02 - SUNBURST
+
+Esta figura foi feita no Excel, utilizando a função `sunburst`
+```{r, echo=FALSE, out.width="700px"}
+knitr::include_graphics(here("figures","ATLANTIC_CAMTRAPS_FIG02.png"))
+```
+  
+**Fig. 2.** Taxonomic information levels of medium and large terrestrial mammal species recorded in camera trap surveys within the Atlantic Forest. Only species considered well detected by camera traps are listed. From the 83 species reported in the database, 8 are not listed because the identification is at genera level. Another 28 species are not listed because they were considered opportunistic records of species not usually detected by camera traps (primates, bats, small rodents, and small marsupials).
+
+###FIGURA 03 - FREQUENCIA DE OCORRENCIA
+
+**RM** Demanda: Casar as cores com o sunburst!  
+**pH**  Eu mudei a paleta de cores. Inseri os codigos RGB para usar igual no Excel.  
+
+```{r generate_figures, fig.show = "hide"}
+fct_rev(fct_infreq(factor(data$species.1)))
+colnames(data)[3]<-paste("Order")
+getwd()
+
+p<-	ggplot(data, aes(x=reorder(species.1, -fo) , y=fo, fill=Order))+
+  	geom_bar(width=0.8,stat="identity", color = "black", position="stack", size =0.3) + #dimgray
+  	#, size = 1, shape = 1
+	theme_bw() +
+	#facet_wrap(~order)+
+	xlab("Species") + 
+  	ylab("Frequency of occurrence")+
+	theme(legend.position="top")+
+  	theme(axis.text.x = element_text(angle=45, # pH # mudei de 90 para 45
+	vjust=1,
+	hjust = 1, # pH # adicionei
+	family="Times", face="italic", colour="black", size=rel(0.9)))+
+	geom_text(aes(label=iucn_status), position=position_dodge(width=0.7), size=3, colour="black", vjust=-0.25)+
+	theme(plot.margin = unit(c(0.5,0.5,0.5,1),"cm"))
+
+cores<-c("indianred1" , # pH # artiodactyla mudar para indianred #cd5c5c rgb(205,92,92)
+	"coral",  # pH # carnivora #ff7f50 rgb(255,127,80)
+	"orchid" , # pH # cingulata mudar para orchid 
+	"burlywood", # pH # didelphimorphia #deb887 rgb(222,184,135)
+	"khaki", # pH # lagomorpha mudar para khaki #f0e68c rgb(240,230,140)
+	"darkseagreen", # pH #  perisodactyla mudar para darkseagreen #8fbc8f rgb(143,188,143)
+	"mediumaquamarine", # pH # pilosa #66cdaa rgb(102,205,170)   
+	"dodgerblue" ) # pH #  rodentia mudar para dodger blue #1e90ff rgb(30,144,255)
+	#png(filename= "Fig3_v19.png", res= 300,  height= 16, width=26, unit="cm")
+	#p+ scale_fill_manual(values=cores)
+	#dev.off()
+
+# pH #  mesmo que acima, mas usando os codigos
+	
+	cores<-c("#cd5c5c" , # pH # artiodactyla mudar para indianred #cd5c5c rgb(205,92,92)
+	         "#ff7f50",  # pH # carnivora #ff7f50 rgb(255,127,80)
+	         "#da70d6" , # pH # cingulata mudar para orchid #da70d6 rgb(218,112,214)
+	         "#deb887", # pH # didelphimorphia #deb887 rgb(222,184,135)
+	         "#f0e68c", # pH # lagomorpha mudar para khaki #f0e68c rgb(240,230,140)
+	         "#8fbc8f", # pH #  perisodactyla mudar para darkseagreen #8fbc8f rgb(143,188,143)
+	         "#66cdaa", # pH # pilosa #66cdaa rgb(102,205,170)   
+	         "#1e90ff" ) # pH # rodentia mudar para dodger blue #1e90ff rgb(30,144,255)
+	
+	#png(filename= "Fig3_v20.png", res= 300,  height= 16, width=26, unit="cm")
+	#p+ scale_fill_manual(values=cores)
+	#dev.off()
+```
+
+```{r, echo=FALSE, out.width="700px"}
+knitr::include_graphics(here("figures","ATLANTIC_CAMTRAPS_FIG03.png"))
+```
+  
+**Fig. 3.** Distribution of frequencies of occurrence of the main species evaluated in ATLANTIC-CAMTRAPS, and their status in the 2017 IUCN Red list of threatened species. LC = least concern, NT = near threatened, VU = vulnerable, EN = endangered, CR = critically endangered, DD = data deficient, and IN = invasive species (not an IUCN category).
+
+### FIGURA 04 - MAPA
+O mapa foi feito no ArcMap
+```{r, echo=FALSE, out.width="700px"}
+knitr::include_graphics(here("figures","ATLANTIC_CAMTRAPS_FIG04.jpg"))
+```
+  
+**Fig. 4.** Distribution of taxonomic richness and sampling effort across Atlantic Forest sites where camera traps were used for sampling of medium and large terrestrial mammal species. Opportunistic records (see the text) were removed from this analysis.
+
