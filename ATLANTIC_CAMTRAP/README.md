@@ -20,5 +20,6 @@ This repository contains:
 
 ```metadata:``` pdf. document describing the dataset.
 
-
-![Figure 01 ATLANTIC-CAMTRAPS](/figures/ATLANTIC_CAMTRAPS_FIG01.jpg)
+<p align="center">
+  <img src="https://github.com/pardalismitis/Atlantic_series/blob/master/ATLANTIC_CAMTRAP/figures/ATLANTIC_CAMTRAPS_FIG01.jpg?raw=true"/>
+</p>
