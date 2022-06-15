@@ -1,6 +1,6 @@
 # ATLANTIC SERIES
 
-## ATLANTIC BATS: a data set of bat communities from the Atlantic Forests of South America	
+:palm_tree: :bat: ## ATLANTIC BATS: a data set of bat communities from the Atlantic Forests of South America	:bat: :palm_tree:
 
 ##### <img align="right" width="150" src="ats_v02_bats1.jpg"> MUYLAERT ET AL. 2017. ECOLOGY JOURNAL: doi: 10.1002/ecy.2007 - http://onlinelibrary.wiley.com/doi/10.1002/ecy.2007/suppinfo
 
