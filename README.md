@@ -18,6 +18,8 @@ Instituto de Biociências, Departamento de Ecologia
 
 13506-900 Rio Claro, São Paulo, Brazil
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=LEEClab/Atlantic_series&type=Date)](https://star-history.com/#LEEClab/Atlantic_series&Date)
 
 
